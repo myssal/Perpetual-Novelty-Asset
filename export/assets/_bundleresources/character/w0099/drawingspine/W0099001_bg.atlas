@@ -1,0 +1,153 @@
+
+W0099001_bg.png
+size: 1588,1588
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houhua_1
+  rotate: false
+  xy: 739, 201
+  size: 384, 344
+  orig: 384, 344
+  offset: 0, 0
+  index: -1
+houhua_10
+  rotate: false
+  xy: 594, 1458
+  size: 73, 127
+  orig: 73, 127
+  offset: 0, 0
+  index: -1
+houhua_11
+  rotate: false
+  xy: 426, 1440
+  size: 166, 146
+  orig: 373, 932
+  offset: 0, 35
+  index: -1
+houhua_2
+  rotate: false
+  xy: 2, 215
+  size: 401, 471
+  orig: 401, 471
+  offset: 0, 0
+  index: -1
+houhua_3
+  rotate: true
+  xy: 970, 521
+  size: 271, 282
+  orig: 271, 282
+  offset: 0, 0
+  index: -1
+houhua_4
+  rotate: false
+  xy: 2, 1046
+  size: 406, 540
+  orig: 406, 556
+  offset: 0, 16
+  index: -1
+houhua_5
+  rotate: false
+  xy: 472, 540
+  size: 196, 252
+  orig: 196, 252
+  offset: 0, 0
+  index: -1
+houhua_6
+  rotate: false
+  xy: 237, 6
+  size: 233, 159
+  orig: 233, 159
+  offset: 0, 0
+  index: -1
+houhua_7
+  rotate: false
+  xy: 338, 1074
+  size: 539, 511
+  orig: 558, 511
+  offset: 19, 0
+  index: -1
+houhua_8
+  rotate: false
+  xy: 854, 1089
+  size: 132, 159
+  orig: 132, 159
+  offset: 0, 0
+  index: -1
+houhua_9
+  rotate: false
+  xy: 410, 1033
+  size: 143, 134
+  orig: 143, 134
+  offset: 0, 0
+  index: -1
+qianhua_1
+  rotate: 180
+  xy: 672, 551
+  size: 476, 1034
+  orig: 476, 1034
+  offset: 0, 0
+  index: -1
+qianhua_2
+  rotate: true
+  xy: 2, 719
+  size: 377, 743
+  orig: 407, 743
+  offset: 0, 0
+  index: -1
+qianhua_3
+  rotate: false
+  xy: 2, 3
+  size: 233, 526
+  orig: 233, 526
+  offset: 0, 0
+  index: -1
+qianhua_4
+  rotate: 180
+  xy: 1135, 1033
+  size: 223, 339
+  orig: 223, 339
+  offset: 0, 0
+  index: -1
+qianhua_5
+  rotate: 180
+  xy: 2, 157
+  size: 830, 670
+  orig: 830, 670
+  offset: 0, 0
+  index: -1
+qianhua_6
+  rotate: 180
+  xy: 1045, 511
+  size: 287, 1075
+  orig: 1504, 1103
+  offset: 881, 28
+  index: -1
+qianhua_7
+  rotate: 270
+  xy: 948, 171
+  size: 290, 412
+  orig: 290, 412
+  offset: 0, 0
+  index: -1
+yinhua_1
+  rotate: false
+  xy: 470, 883
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+yinhua_2
+  rotate: true
+  xy: 404, 97
+  size: 255, 279
+  orig: 255, 279
+  offset: 0, 0
+  index: -1
+yinhua_3
+  rotate: 180
+  xy: 608, 735
+  size: 400, 437
+  orig: 400, 437
+  offset: 0, 0
+  index: -1

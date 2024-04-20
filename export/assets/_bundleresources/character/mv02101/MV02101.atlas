@@ -1,0 +1,279 @@
+
+MV02101.png
+size: 880,880
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_bozi
+  rotate: false
+  xy: 208, 415
+  size: 185, 188
+  orig: 185, 188
+  offset: 0, 0
+  index: -1
+01_erduo
+  rotate: false
+  xy: 534, 20
+  size: 50, 43
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+01_eye_close
+  rotate: false
+  xy: 615, 242
+  size: 38, 29
+  orig: 40, 30
+  offset: 1, 0
+  index: -1
+01_head
+  rotate: false
+  xy: 658, 12
+  size: 105, 104
+  orig: 105, 104
+  offset: 0, 0
+  index: -1
+01_l_foot_1
+  rotate: false
+  xy: 539, 65
+  size: 117, 164
+  orig: 117, 164
+  offset: 0, 0
+  index: -1
+01_l_foot_2
+  rotate: false
+  xy: 736, 128
+  size: 65, 143
+  orig: 65, 143
+  offset: 0, 0
+  index: -1
+01_maomao
+  rotate: false
+  xy: 615, 273
+  size: 132, 133
+  orig: 132, 133
+  offset: 0, 0
+  index: -1
+01_mouth1
+  rotate: false
+  xy: 291, 11
+  size: 72, 72
+  orig: 73, 86
+  offset: 1, 0
+  index: -1
+01_mouth2
+  rotate: true
+  xy: 803, 232
+  size: 71, 75
+  orig: 72, 89
+  offset: 1, 0
+  index: -1
+01_pigu
+  rotate: true
+  xy: 212, 85
+  size: 141, 178
+  orig: 141, 178
+  offset: 0, 0
+  index: -1
+01_r_foot1
+  rotate: true
+  xy: 2, 16
+  size: 99, 207
+  orig: 103, 207
+  offset: 4, 0
+  index: -1
+01_r_foot2
+  rotate: false
+  xy: 395, 413
+  size: 161, 190
+  orig: 161, 190
+  offset: 0, 0
+  index: -1
+01_spine
+  rotate: false
+  xy: 2, 117
+  size: 208, 223
+  orig: 215, 225
+  offset: 7, 0
+  index: -1
+01_tail
+  rotate: false
+  xy: 2, 342
+  size: 204, 271
+  orig: 214, 271
+  offset: 0, 0
+  index: -1
+01_tail_mao
+  rotate: true
+  xy: 756, 404
+  size: 115, 120
+  orig: 115, 120
+  offset: 0, 0
+  index: -1
+01_tongkong
+  rotate: false
+  xy: 558, 413
+  size: 39, 31
+  orig: 41, 31
+  offset: 1, 0
+  index: -1
+01_toushi
+  rotate: true
+  xy: 765, 28
+  size: 98, 94
+  orig: 98, 94
+  offset: 0, 0
+  index: -1
+01_wp_01
+  rotate: false
+  xy: 679, 408
+  size: 75, 215
+  orig: 75, 215
+  offset: 0, 0
+  index: -1
+01_wp_02
+  rotate: false
+  xy: 243, 700
+  size: 268, 178
+  orig: 268, 178
+  offset: 0, 0
+  index: -1
+03_bozi
+  rotate: true
+  xy: 513, 703
+  size: 175, 207
+  orig: 193, 207
+  offset: 17, 0
+  index: -1
+03_erduo_L
+  rotate: false
+  xy: 498, 23
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+03_eye_close
+  rotate: false
+  xy: 615, 231
+  size: 28, 9
+  orig: 29, 10
+  offset: 1, 1
+  index: -1
+03_head
+  rotate: false
+  xy: 749, 305
+  size: 115, 97
+  orig: 168, 97
+  offset: 0, 0
+  index: -1
+03_l_foot_1
+  rotate: false
+  xy: 558, 446
+  size: 119, 177
+  orig: 119, 181
+  offset: 0, 4
+  index: -1
+03_l_foot_2
+  rotate: true
+  xy: 243, 605
+  size: 93, 241
+  orig: 168, 241
+  offset: 75, 0
+  index: -1
+03_maomao
+  rotate: false
+  xy: 392, 70
+  size: 145, 158
+  orig: 145, 158
+  offset: 0, 0
+  index: -1
+03_mouth1
+  rotate: true
+  xy: 438, 23
+  size: 45, 58
+  orig: 59, 80
+  offset: 0, 3
+  index: -1
+03_mouth2
+  rotate: true
+  xy: 365, 22
+  size: 46, 71
+  orig: 60, 91
+  offset: 0, 1
+  index: -1
+03_pigu
+  rotate: false
+  xy: 515, 231
+  size: 98, 180
+  orig: 100, 183
+  offset: 2, 0
+  index: -1
+03_r_foot1
+  rotate: false
+  xy: 658, 118
+  size: 76, 153
+  orig: 76, 153
+  offset: 0, 0
+  index: -1
+03_r_foot2
+  rotate: false
+  xy: 390, 230
+  size: 123, 181
+  orig: 145, 181
+  offset: 22, 0
+  index: -1
+03_spine
+  rotate: true
+  xy: 722, 648
+  size: 230, 143
+  orig: 242, 157
+  offset: 12, 14
+  index: -1
+03_tail
+  rotate: false
+  xy: 2, 615
+  size: 239, 263
+  orig: 239, 263
+  offset: 0, 0
+  index: -1
+03_tail_mao
+  rotate: false
+  xy: 756, 521
+  size: 118, 125
+  orig: 126, 125
+  offset: 0, 0
+  index: -1
+03_tail_mao2
+  rotate: false
+  xy: 211, 2
+  size: 78, 81
+  orig: 78, 81
+  offset: 0, 0
+  index: -1
+03_tongkong
+  rotate: true
+  xy: 749, 273
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+03_toushi
+  rotate: true
+  xy: 803, 152
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+03_wp_01
+  rotate: true
+  xy: 513, 625
+  size: 76, 202
+  orig: 76, 202
+  offset: 0, 0
+  index: -1
+03_wp_02
+  rotate: true
+  xy: 212, 228
+  size: 185, 176
+  orig: 191, 176
+  offset: 2, 0
+  index: -1

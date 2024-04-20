@@ -1,0 +1,34 @@
+
+D0032002_bg.png
+size: 1888,1888
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diban
+  rotate: false
+  xy: 25, 81
+  size: 1224, 667
+  orig: 1224, 700
+  offset: 0, 30
+  index: -1
+huowu_01
+  rotate: false
+  xy: 2, 911
+  size: 1290, 972
+  orig: 1393, 1000
+  offset: 103, 0
+  index: -1
+huowu_03
+  rotate: 180
+  xy: 319, 584
+  size: 964, 758
+  orig: 1000, 758
+  offset: 0, 0
+  index: -1
+jianzhi_12
+  rotate: 180
+  xy: 719, 3
+  size: 500, 364
+  orig: 500, 364
+  offset: 0, 0
+  index: -1

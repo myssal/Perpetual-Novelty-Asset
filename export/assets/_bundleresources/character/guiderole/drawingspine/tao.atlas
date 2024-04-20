@@ -1,0 +1,76 @@
+
+tao.png
+size: 268,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+changfa
+  rotate: true
+  xy: 2, 5
+  size: 31, 96
+  orig: 32, 96
+  offset: 1, 0
+  index: -1
+faji
+  rotate: true
+  xy: 158, 98
+  size: 48, 57
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+jiaobian
+  rotate: false
+  xy: 158, 148
+  size: 68, 115
+  orig: 68, 115
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: false
+  xy: 228, 203
+  size: 35, 60
+  orig: 37, 61
+  offset: 0, 0
+  index: -1
+piaodaihou
+  rotate: true
+  xy: 208, 53
+  size: 43, 54
+  orig: 45, 55
+  offset: 1, 0
+  index: -1
+ren
+  rotate: false
+  xy: 2, 93
+  size: 154, 170
+  orig: 154, 170
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 154, 13
+  size: 78, 52
+  orig: 79, 54
+  offset: 0, 2
+  index: -1
+yezi1
+  rotate: true
+  xy: 217, 115
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: false
+  xy: 100, 6
+  size: 29, 30
+  orig: 30, 31
+  offset: 1, 0
+  index: -1
+zhuozi
+  rotate: false
+  xy: 2, 38
+  size: 150, 53
+  orig: 150, 53
+  offset: 0, 0
+  index: -1

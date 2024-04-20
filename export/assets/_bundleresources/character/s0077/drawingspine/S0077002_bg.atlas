@@ -1,0 +1,244 @@
+
+S0077002_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 2, 561
+  size: 1508, 1485
+  orig: 1508, 1485
+  offset: 0, 0
+  index: -1
+But_L
+  rotate: false
+  xy: 869, 2027
+  size: 56, 19
+  orig: 56, 19
+  offset: 0, 0
+  index: -1
+But_R
+  rotate: false
+  xy: 474, 2010
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+Calendar
+  rotate: false
+  xy: 1512, 1385
+  size: 78, 355
+  orig: 78, 355
+  offset: 0, 0
+  index: -1
+Case_A
+  rotate: false
+  xy: 1776, 392
+  size: 270, 243
+  orig: 270, 243
+  offset: 0, 0
+  index: -1
+Case_B
+  rotate: false
+  xy: 1844, 625
+  size: 202, 103
+  orig: 202, 103
+  offset: 0, 0
+  index: -1
+Device_A
+  rotate: false
+  xy: 300, 1966
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
+Devices_B
+  rotate: false
+  xy: 2, 1758
+  size: 218, 288
+  orig: 218, 288
+  offset: 0, 0
+  index: -1
+Drob
+  rotate: true
+  xy: 824, 282
+  size: 444, 708
+  orig: 444, 708
+  offset: 0, 0
+  index: -1
+Helicopter
+  rotate: false
+  xy: 1037, 813
+  size: 231, 133
+  orig: 231, 133
+  offset: 0, 0
+  index: -1
+Insert
+  rotate: false
+  xy: 841, 1987
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+Lace_L
+  rotate: false
+  xy: 908, 2009
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+Lace_R
+  rotate: false
+  xy: 58, 1977
+  size: 31, 69
+  orig: 31, 69
+  offset: 0, 0
+  index: -1
+Leaves_A
+  rotate: false
+  xy: 914, 743
+  size: 122, 109
+  orig: 122, 109
+  offset: 0, 0
+  index: -1
+Leaves_B
+  rotate: false
+  xy: 2, 419
+  size: 138, 202
+  orig: 138, 202
+  offset: 0, 0
+  index: -1
+Leaves_C
+  rotate: false
+  xy: 1009, 733
+  size: 279, 128
+  orig: 279, 128
+  offset: 0, 0
+  index: -1
+Leaves_D
+  rotate: false
+  xy: 1523, 317
+  size: 250, 262
+  orig: 250, 262
+  offset: 0, 0
+  index: -1
+Leaves_E
+  rotate: false
+  xy: 1968, 1645
+  size: 77, 257
+  orig: 77, 259
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 2, 310
+  size: 356, 554
+  orig: 356, 554
+  offset: 0, 0
+  index: -1
+Page
+  rotate: false
+  xy: 2, 1470
+  size: 108, 166
+  orig: 108, 166
+  offset: 0, 0
+  index: -1
+Pillow_A
+  rotate: false
+  xy: 1905, 725
+  size: 140, 167
+  orig: 140, 167
+  offset: 0, 0
+  index: -1
+Pillow_B
+  rotate: false
+  xy: 1863, 1839
+  size: 174, 207
+  orig: 174, 207
+  offset: 0, 0
+  index: -1
+Plane
+  rotate: false
+  xy: 1762, 1469
+  size: 269, 187
+  orig: 269, 187
+  offset: 0, 0
+  index: -1
+Shadow_1
+  rotate: false
+  xy: 2, 2005
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+Shadow_2
+  rotate: false
+  xy: 1592, 1458
+  size: 158, 141
+  orig: 158, 141
+  offset: 0, 0
+  index: -1
+Shadow_3
+  rotate: false
+  xy: 207, 1907
+  size: 94, 139
+  orig: 105, 139
+  offset: 11, 0
+  index: -1
+Shadow_4
+  rotate: true
+  xy: 1303, 1591
+  size: 456, 678
+  orig: 456, 678
+  offset: 0, 0
+  index: -1
+Sofa
+  rotate: 270
+  xy: 1263, 531
+  size: 905, 783
+  orig: 905, 783
+  offset: 0, 0
+  index: -1
+Unit_A
+  rotate: false
+  xy: 964, 2013
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+Unit_B
+  rotate: false
+  xy: 994, 2025
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+Unit_C
+  rotate: false
+  xy: 377, 2004
+  size: 55, 43
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
+Unit_D
+  rotate: false
+  xy: 431, 2019
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+Vase_Back
+  rotate: false
+  xy: 1210, 1921
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+Vase_F
+  rotate: false
+  xy: 2, 1301
+  size: 113, 91
+  orig: 113, 91
+  offset: 0, 0
+  index: -1

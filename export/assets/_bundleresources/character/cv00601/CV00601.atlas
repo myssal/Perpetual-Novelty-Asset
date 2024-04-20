@@ -1,0 +1,286 @@
+
+CV00601.png
+size: 760,760
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_could
+  rotate: false
+  xy: 604, 527
+  size: 146, 230
+  orig: 146, 230
+  offset: 0, 0
+  index: -1
+01_could2
+  rotate: false
+  xy: 561, 185
+  size: 189, 199
+  orig: 189, 199
+  offset: 0, 0
+  index: -1
+01_eye
+  rotate: false
+  xy: 572, 578
+  size: 29, 89
+  orig: 29, 89
+  offset: 0, 0
+  index: -1
+01_head_1
+  rotate: true
+  xy: 228, 445
+  size: 57, 107
+  orig: 57, 107
+  offset: 0, 0
+  index: -1
+01_head_2
+  rotate: true
+  xy: 234, 572
+  size: 41, 106
+  orig: 41, 106
+  offset: 0, 0
+  index: -1
+01_head_3
+  rotate: false
+  xy: 2, 185
+  size: 38, 72
+  orig: 44, 73
+  offset: 6, 0
+  index: -1
+01_l_ear
+  rotate: false
+  xy: 68, 150
+  size: 92, 35
+  orig: 92, 35
+  offset: 0, 0
+  index: -1
+01_l_foot1
+  rotate: false
+  xy: 162, 9
+  size: 80, 188
+  orig: 80, 188
+  offset: 0, 0
+  index: -1
+01_l_foot2
+  rotate: false
+  xy: 2, 14
+  size: 64, 169
+  orig: 64, 169
+  offset: 0, 0
+  index: -1
+01_moon1
+  rotate: true
+  xy: 342, 669
+  size: 88, 260
+  orig: 88, 260
+  offset: 0, 0
+  index: -1
+01_moon2
+  rotate: true
+  xy: 554, 108
+  size: 75, 200
+  orig: 75, 200
+  offset: 0, 0
+  index: -1
+01_pelvis
+  rotate: false
+  xy: 463, 34
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+01_r_ear
+  rotate: true
+  xy: 551, 25
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1
+01_r_foot1
+  rotate: true
+  xy: 339, 436
+  size: 73, 222
+  orig: 73, 222
+  offset: 0, 0
+  index: -1
+01_r_foot2
+  rotate: true
+  xy: 327, 163
+  size: 92, 202
+  orig: 92, 202
+  offset: 0, 0
+  index: -1
+01_shetou
+  rotate: true
+  xy: 225, 372
+  size: 71, 111
+  orig: 71, 111
+  offset: 0, 0
+  index: -1
+01_spine
+  rotate: true
+  xy: 2, 346
+  size: 100, 221
+  orig: 100, 221
+  offset: 0, 0
+  index: -1
+01_tail
+  rotate: true
+  xy: 342, 511
+  size: 156, 228
+  orig: 156, 228
+  offset: 0, 0
+  index: -1
+02_eye
+  rotate: false
+  xy: 531, 189
+  size: 22, 66
+  orig: 22, 66
+  offset: 0, 0
+  index: -1
+02_head_1
+  rotate: true
+  xy: 234, 504
+  size: 66, 103
+  orig: 66, 103
+  offset: 0, 0
+  index: -1
+02_head_2
+  rotate: false
+  xy: 408, 4
+  size: 53, 116
+  orig: 53, 119
+  offset: 0, 3
+  index: -1
+02_l_foot1
+  rotate: false
+  xy: 244, 9
+  size: 78, 188
+  orig: 78, 188
+  offset: 0, 0
+  index: -1
+02_l_foot2
+  rotate: true
+  xy: 572, 460
+  size: 65, 181
+  orig: 65, 181
+  offset: 0, 0
+  index: -1
+02_pelvis
+  rotate: true
+  xy: 324, 2
+  size: 118, 82
+  orig: 118, 83
+  offset: 0, 0
+  index: -1
+02_r_foot1
+  rotate: true
+  xy: 2, 448
+  size: 72, 224
+  orig: 72, 224
+  offset: 0, 0
+  index: -1
+02_r_foot2
+  rotate: true
+  xy: 2, 522
+  size: 102, 230
+  orig: 102, 230
+  offset: 0, 0
+  index: -1
+02_spine
+  rotate: true
+  xy: 338, 337
+  size: 97, 221
+  orig: 97, 221
+  offset: 0, 0
+  index: -1
+03_eye
+  rotate: false
+  xy: 531, 122
+  size: 21, 65
+  orig: 22, 66
+  offset: 0, 0
+  index: -1
+03_head_1
+  rotate: true
+  xy: 236, 615
+  size: 68, 104
+  orig: 68, 104
+  offset: 0, 0
+  index: -1
+03_head_2
+  rotate: true
+  xy: 225, 317
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+03_l_ear
+  rotate: false
+  xy: 603, 58
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+03_l_foot1
+  rotate: true
+  xy: 2, 259
+  size: 85, 216
+  orig: 85, 216
+  offset: 0, 0
+  index: -1
+03_l_foot2
+  rotate: true
+  xy: 2, 626
+  size: 57, 232
+  orig: 57, 232
+  offset: 0, 0
+  index: -1
+03_pelvis
+  rotate: true
+  xy: 68, 14
+  size: 134, 89
+  orig: 142, 91
+  offset: 0, 2
+  index: -1
+03_r_ear
+  rotate: false
+  xy: 220, 263
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+03_r_foot1
+  rotate: true
+  xy: 162, 199
+  size: 58, 163
+  orig: 58, 163
+  offset: 0, 0
+  index: -1
+03_r_foot2
+  rotate: true
+  xy: 563, 386
+  size: 72, 194
+  orig: 72, 194
+  offset: 0, 0
+  index: -1
+03_shetou
+  rotate: true
+  xy: 42, 187
+  size: 68, 118
+  orig: 68, 118
+  offset: 0, 0
+  index: -1
+03_spine
+  rotate: true
+  xy: 337, 257
+  size: 78, 214
+  orig: 78, 214
+  offset: 0, 0
+  index: -1
+wp
+  rotate: false
+  xy: 2, 685
+  size: 338, 72
+  orig: 338, 72
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+MS01701.png
+size: 536,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 268, 72
+  size: 183, 462
+  orig: 184, 462
+  offset: 1, 0
+  index: -1
+1_1
+  rotate: false
+  xy: 2, 2
+  size: 264, 532
+  orig: 274, 545
+  offset: 5, 7
+  index: -1

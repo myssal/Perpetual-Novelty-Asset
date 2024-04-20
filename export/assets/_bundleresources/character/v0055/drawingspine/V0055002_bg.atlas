@@ -1,0 +1,370 @@
+
+V0055002_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianzi_L_01
+  rotate: false
+  xy: 655, 279
+  size: 561, 148
+  orig: 561, 148
+  offset: 0, 0
+  index: -1
+bianzi_L_02
+  rotate: 180
+  xy: 2, 290
+  size: 539, 242
+  orig: 539, 242
+  offset: 0, 0
+  index: -1
+bianzi_L_04
+  rotate: 180
+  xy: 467, 614
+  size: 828, 448
+  orig: 828, 448
+  offset: 0, 0
+  index: -1
+bianzi_L_05
+  rotate: false
+  xy: 1890, 1981
+  size: 136, 64
+  orig: 136, 64
+  offset: 0, 0
+  index: -1
+bianzi_L_06
+  rotate: false
+  xy: 1785, 271
+  size: 185, 163
+  orig: 185, 163
+  offset: 0, 0
+  index: -1
+bianzi_L_07
+  rotate: false
+  xy: 1418, 262
+  size: 320, 290
+  orig: 351, 290
+  offset: 31, 0
+  index: -1
+bianzi_L_08
+  rotate: false
+  xy: 661, 815
+  size: 895, 401
+  orig: 895, 401
+  offset: 0, 0
+  index: -1
+bianzi_L_9
+  rotate: true
+  xy: 486, 221
+  size: 189, 351
+  orig: 189, 351
+  offset: 0, 0
+  index: -1
+bianzi_R_01
+  rotate: false
+  xy: 637, 871
+  size: 381, 109
+  orig: 381, 109
+  offset: 0, 0
+  index: -1
+bianzi_R_02
+  rotate: 270
+  xy: 2, 379
+  size: 556, 352
+  orig: 556, 352
+  offset: 0, 0
+  index: -1
+bianzi_R_03
+  rotate: true
+  xy: 542, 309
+  size: 169, 341
+  orig: 169, 341
+  offset: 0, 0
+  index: -1
+bianzi_R_04
+  rotate: false
+  xy: 342, 516
+  size: 456, 474
+  orig: 456, 474
+  offset: 0, 0
+  index: -1
+bianzi_R_05
+  rotate: true
+  xy: 1601, 1507
+  size: 105, 321
+  orig: 109, 326
+  offset: 0, 0
+  index: -1
+bianzi_R_06
+  rotate: 270
+  xy: 1263, 177
+  size: 262, 460
+  orig: 262, 460
+  offset: 0, 0
+  index: -1
+fensekaodian
+  rotate: true
+  xy: 1198, 1078
+  size: 968, 401
+  orig: 968, 401
+  offset: 0, 0
+  index: -1
+guasheng
+  rotate: false
+  xy: 1487, 1927
+  size: 47, 120
+  orig: 47, 120
+  offset: 0, 0
+  index: -1
+guazhui01_01
+  rotate: false
+  xy: 120, 1993
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+guazhui01_02
+  rotate: false
+  xy: 588, 2000
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+guazhui01_03
+  rotate: false
+  xy: 2014, 1870
+  size: 33, 132
+  orig: 33, 132
+  offset: 0, 0
+  index: -1
+guazhui02_01
+  rotate: false
+  xy: 1130, 1852
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+guazhui02_02
+  rotate: false
+  xy: 1231, 1800
+  size: 41, 108
+  orig: 41, 108
+  offset: 0, 0
+  index: -1
+guazhui02_03
+  rotate: false
+  xy: 790, 1797
+  size: 40, 112
+  orig: 40, 112
+  offset: 0, 0
+  index: -1
+guazhui03_01
+  rotate: false
+  xy: 1939, 1926
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+guazhui03_02
+  rotate: false
+  xy: 1186, 1757
+  size: 48, 152
+  orig: 48, 153
+  offset: 0, 1
+  index: -1
+guazhui03_03
+  rotate: false
+  xy: 2018, 1757
+  size: 28, 115
+  orig: 28, 115
+  offset: 0, 0
+  index: -1
+guazhui04_01
+  rotate: false
+  xy: 2, 1881
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+guazhui04_02
+  rotate: false
+  xy: 1536, 1884
+  size: 44, 163
+  orig: 44, 171
+  offset: 0, 8
+  index: -1
+guazhui04_03
+  rotate: false
+  xy: 761, 1805
+  size: 30, 94
+  orig: 30, 94
+  offset: 0, 0
+  index: -1
+hongsekaodian
+  rotate: false
+  xy: 642, 1900
+  size: 264, 146
+  orig: 264, 146
+  offset: 0, 0
+  index: -1
+jiazi
+  rotate: false
+  xy: 1108, 1911
+  size: 181, 38
+  orig: 181, 38
+  offset: 0, 0
+  index: -1
+qianzikaodian
+  rotate: false
+  xy: 1465, 792
+  size: 581, 176
+  orig: 581, 176
+  offset: 0, 0
+  index: -1
+shensikaodian
+  rotate: 270
+  xy: 778, 990
+  size: 1056, 418
+  orig: 1056, 418
+  offset: 0, 0
+  index: -1
+wanoutuzi_L_eye
+  rotate: false
+  xy: 1227, 2002
+  size: 81, 44
+  orig: 81, 44
+  offset: 0, 0
+  index: -1
+wanoutuzi_R_eye
+  rotate: false
+  xy: 176, 2006
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+wanoutuzi_baisehuabian
+  rotate: false
+  xy: 1054, 979
+  size: 216, 181
+  orig: 216, 181
+  offset: 0, 0
+  index: -1
+wanoutuzi_body
+  rotate: false
+  xy: 546, 953
+  size: 264, 309
+  orig: 264, 309
+  offset: 0, 0
+  index: -1
+wanoutuzi_ear
+  rotate: true
+  xy: 1534, 536
+  size: 266, 511
+  orig: 266, 511
+  offset: 0, 0
+  index: -1
+wanoutuzi_foot
+  rotate: false
+  xy: 107, 646
+  size: 213, 264
+  orig: 213, 264
+  offset: 0, 0
+  index: -1
+wanoutuzi_hand
+  rotate: false
+  xy: 1145, 306
+  size: 205, 211
+  orig: 205, 211
+  offset: 0, 0
+  index: -1
+wanoutuzi_head
+  rotate: false
+  xy: 1567, 1613
+  size: 392, 434
+  orig: 392, 434
+  offset: 0, 0
+  index: -1
+wanoutuzi_hongsehuabian
+  rotate: false
+  xy: 1739, 391
+  size: 306, 205
+  orig: 306, 205
+  offset: 0, 0
+  index: -1
+wanoutuzi_leg
+  rotate: false
+  xy: 1319, 661
+  size: 264, 233
+  orig: 264, 242
+  offset: 0, 9
+  index: -1
+wanoutuzi_shensehuabian
+  rotate: 270
+  xy: 1548, 992
+  size: 520, 497
+  orig: 520, 497
+  offset: 0, 0
+  index: -1
+wanoutuzi_toushi01
+  rotate: false
+  xy: 1949, 1858
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+wanoutuzi_toutie
+  rotate: false
+  xy: 1908, 1568
+  size: 137, 152
+  orig: 137, 152
+  offset: 0, 0
+  index: -1
+wanoutuzi_weizui
+  rotate: false
+  xy: 1307, 397
+  size: 289, 195
+  orig: 317, 195
+  offset: 0, 0
+  index: -1
+wanoutuzii_toushi02
+  rotate: false
+  xy: 823, 1875
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+wanoutuzii_toushi03
+  rotate: false
+  xy: 2, 1937
+  size: 116, 109
+  orig: 116, 109
+  offset: 0, 0
+  index: -1
+yuandian
+  rotate: 180
+  xy: 196, 461
+  size: 1144, 180
+  orig: 1144, 180
+  offset: 0, 0
+  index: -1
+yuanhuan
+  rotate: false
+  xy: 2, 1237
+  size: 792, 810
+  orig: 792, 810
+  offset: 0, 0
+  index: -1
+zisedianziqian
+  rotate: false
+  xy: 1047, 1950
+  size: 264, 97
+  orig: 264, 97
+  offset: 0, 0
+  index: -1
+zisekaodianhou
+  rotate: 180
+  xy: 2, 912
+  size: 504, 352
+  orig: 504, 352
+  offset: 0, 0
+  index: -1

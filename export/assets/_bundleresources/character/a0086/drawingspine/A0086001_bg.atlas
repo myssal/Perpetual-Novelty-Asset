@@ -1,0 +1,41 @@
+
+A0086001_bg.png
+size: 2036,2036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 1101, 1089
+  size: 931, 944
+  orig: 931, 944
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: false
+  xy: 2, 881
+  size: 1097, 1152
+  orig: 1097, 1289
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: false
+  xy: 2, 436
+  size: 488, 567
+  orig: 513, 567
+  offset: 0, 0
+  index: -1
+yezi3
+  rotate: false
+  xy: 465, 357
+  size: 469, 363
+  orig: 469, 363
+  offset: 0, 0
+  index: -1
+yingzi12
+  rotate: false
+  xy: 936, 345
+  size: 921, 742
+  orig: 921, 742
+  offset: 0, 0
+  index: -1

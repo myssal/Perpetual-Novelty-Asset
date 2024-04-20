@@ -1,0 +1,328 @@
+
+CA00701.png
+size: 816,816
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_arrow
+  rotate: false
+  xy: 377, 155
+  size: 140, 66
+  orig: 140, 66
+  offset: 0, 0
+  index: -1
+01_body
+  rotate: true
+  xy: 2, 122
+  size: 206, 151
+  orig: 206, 151
+  offset: 0, 0
+  index: -1
+01_claw1
+  rotate: false
+  xy: 748, 34
+  size: 35, 44
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+01_claw2
+  rotate: false
+  xy: 761, 167
+  size: 53, 53
+  orig: 58, 55
+  offset: 5, 1
+  index: -1
+01_claw3
+  rotate: true
+  xy: 479, 95
+  size: 58, 31
+  orig: 58, 32
+  offset: 0, 1
+  index: -1
+01_cloud_bottom
+  rotate: false
+  xy: 293, 11
+  size: 85, 56
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+01_cloud_chest
+  rotate: true
+  xy: 2, 330
+  size: 211, 153
+  orig: 211, 153
+  offset: 0, 0
+  index: -1
+01_eye
+  rotate: false
+  xy: 328, 689
+  size: 28, 48
+  orig: 29, 50
+  offset: 1, 1
+  index: -1
+01_head
+  rotate: false
+  xy: 376, 82
+  size: 101, 71
+  orig: 102, 73
+  offset: 1, 1
+  index: -1
+01_l_cloud
+  rotate: false
+  xy: 230, 165
+  size: 145, 167
+  orig: 145, 167
+  offset: 0, 0
+  index: -1
+01_l_wing
+  rotate: false
+  xy: 522, 578
+  size: 222, 132
+  orig: 222, 132
+  offset: 0, 0
+  index: -1
+01_l_wing_feathers
+  rotate: true
+  xy: 656, 90
+  size: 112, 46
+  orig: 114, 47
+  offset: 1, 0
+  index: -1
+01_leg
+  rotate: false
+  xy: 697, 270
+  size: 63, 179
+  orig: 63, 179
+  offset: 0, 0
+  index: -1
+01_mouth_bottom
+  rotate: true
+  xy: 752, 222
+  size: 46, 62
+  orig: 46, 68
+  offset: 0, 6
+  index: -1
+01_mouth_upper
+  rotate: false
+  xy: 704, 133
+  size: 55, 71
+  orig: 55, 71
+  offset: 0, 0
+  index: -1
+01_neck
+  rotate: true
+  xy: 521, 204
+  size: 96, 147
+  orig: 96, 148
+  offset: 0, 1
+  index: -1
+01_r_cloud
+  rotate: false
+  xy: 2, 543
+  size: 184, 194
+  orig: 184, 194
+  offset: 0, 0
+  index: -1
+01_r_wing
+  rotate: true
+  xy: 157, 334
+  size: 207, 137
+  orig: 207, 137
+  offset: 0, 0
+  index: -1
+01_r_wing_feathers
+  rotate: true
+  xy: 746, 607
+  size: 103, 68
+  orig: 103, 68
+  offset: 0, 0
+  index: -1
+01_tail
+  rotate: false
+  xy: 377, 223
+  size: 142, 130
+  orig: 142, 130
+  offset: 0, 0
+  index: -1
+01_top
+  rotate: false
+  xy: 519, 86
+  size: 135, 116
+  orig: 135, 116
+  offset: 0, 0
+  index: -1
+03_body
+  rotate: true
+  xy: 296, 355
+  size: 186, 139
+  orig: 186, 140
+  offset: 0, 1
+  index: -1
+03_claw1
+  rotate: false
+  xy: 746, 585
+  size: 63, 20
+  orig: 65, 23
+  offset: 1, 1
+  index: -1
+03_claw2
+  rotate: true
+  xy: 778, 741
+  size: 73, 31
+  orig: 74, 35
+  offset: 1, 4
+  index: -1
+03_claw3
+  rotate: true
+  xy: 328, 642
+  size: 45, 27
+  orig: 48, 27
+  offset: 3, 0
+  index: -1
+03_cloud_bottom
+  rotate: false
+  xy: 380, 16
+  size: 82, 64
+  orig: 82, 65
+  offset: 0, 0
+  index: -1
+03_cloud_chest
+  rotate: false
+  xy: 521, 302
+  size: 174, 147
+  orig: 174, 164
+  offset: 0, 17
+  index: -1
+03_head
+  rotate: true
+  xy: 293, 69
+  size: 94, 81
+  orig: 94, 81
+  offset: 0, 0
+  index: -1
+03_l_cloud
+  rotate: false
+  xy: 358, 620
+  size: 162, 154
+  orig: 162, 154
+  offset: 0, 0
+  index: -1
+03_l_cloud_chest
+  rotate: true
+  xy: 437, 367
+  size: 186, 82
+  orig: 186, 82
+  offset: 0, 0
+  index: -1
+03_leg
+  rotate: true
+  xy: 328, 555
+  size: 63, 192
+  orig: 63, 192
+  offset: 0, 0
+  index: -1
+03_neck
+  rotate: false
+  xy: 155, 156
+  size: 73, 172
+  orig: 73, 172
+  offset: 0, 0
+  index: -1
+03_r_cloud
+  rotate: false
+  xy: 188, 543
+  size: 138, 194
+  orig: 138, 194
+  offset: 0, 0
+  index: -1
+03_r_wing
+  rotate: false
+  xy: 522, 712
+  size: 254, 102
+  orig: 254, 102
+  offset: 0, 0
+  index: -1
+03_r_wing_feathers
+  rotate: false
+  xy: 670, 206
+  size: 80, 62
+  orig: 81, 62
+  offset: 1, 0
+  index: -1
+03_tail
+  rotate: true
+  xy: 2, 6
+  size: 114, 173
+  orig: 114, 173
+  offset: 0, 0
+  index: -1
+03_top
+  rotate: true
+  xy: 177, 22
+  size: 132, 114
+  orig: 132, 114
+  offset: 0, 0
+  index: -1
+03_wing
+  rotate: false
+  xy: 522, 451
+  size: 220, 125
+  orig: 220, 125
+  offset: 0, 0
+  index: -1
+03_wing_feathers
+  rotate: false
+  xy: 704, 80
+  size: 71, 51
+  orig: 71, 51
+  offset: 0, 0
+  index: -1
+cobra_long
+  rotate: false
+  xy: 2, 776
+  size: 518, 38
+  orig: 518, 38
+  offset: 0, 0
+  index: -1
+cobra_short
+  rotate: false
+  xy: 2, 739
+  size: 354, 35
+  orig: 354, 35
+  offset: 0, 0
+  index: -1
+moon1
+  rotate: false
+  xy: 464, 24
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+moon2
+  rotate: false
+  xy: 522, 28
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+moon3
+  rotate: false
+  xy: 638, 28
+  size: 50, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+moon4
+  rotate: false
+  xy: 580, 28
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+moon5
+  rotate: false
+  xy: 690, 23
+  size: 56, 55
+  orig: 56, 56
+  offset: 0, 1
+  index: -1

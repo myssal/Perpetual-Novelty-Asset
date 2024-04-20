@@ -1,0 +1,286 @@
+
+A0001002_bg.png
+size: 2048,1972
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinshan2_192
+  rotate: false
+  xy: 1599, 1400
+  size: 102, 122
+  orig: 102, 122
+  offset: 0, 0
+  index: -1
+jinshan2_193
+  rotate: false
+  xy: 2, 938
+  size: 137, 134
+  orig: 137, 134
+  offset: 0, 0
+  index: -1
+jinshan2_194 a1
+  rotate: false
+  xy: 1754, 280
+  size: 292, 267
+  orig: 292, 267
+  offset: 0, 0
+  index: -1
+jinshan2_194 a2
+  rotate: false
+  xy: 589, 140
+  size: 280, 233
+  orig: 280, 233
+  offset: 0, 0
+  index: -1
+jinshan2_194 a3
+  rotate: 270
+  xy: 103, 205
+  size: 243, 291
+  orig: 255, 291
+  offset: 12, 0
+  index: -1
+jinshan2_194 a4
+  rotate: 270
+  xy: 324, 60
+  size: 243, 247
+  orig: 243, 247
+  offset: 0, 0
+  index: -1
+jinshan2_194 a5
+  rotate: 180
+  xy: 624, 336
+  size: 1422, 1294
+  orig: 1434, 1555
+  offset: 0, 261
+  index: -1
+jinshan2_194 a6
+  rotate: false
+  xy: 1551, 90
+  size: 306, 339
+  orig: 306, 339
+  offset: 0, 0
+  index: -1
+jinshan2_194 a7
+  rotate: true
+  xy: 1841, 67
+  size: 230, 200
+  orig: 241, 200
+  offset: 11, 0
+  index: -1
+jinshan2_195
+  rotate: false
+  xy: 1582, 389
+  size: 463, 408
+  orig: 463, 408
+  offset: 0, 0
+  index: -1
+jinshan2_196
+  rotate: false
+  xy: 1114, 4
+  size: 235, 201
+  orig: 235, 201
+  offset: 0, 0
+  index: -1
+jinshan2_197
+  rotate: true
+  xy: 2, 1757
+  size: 212, 150
+  orig: 212, 150
+  offset: 0, 0
+  index: -1
+jinshan2_198
+  rotate: false
+  xy: 754, 64
+  size: 426, 200
+  orig: 426, 200
+  offset: 0, 0
+  index: -1
+jinshan2_199
+  rotate: false
+  xy: 560, 16
+  size: 150, 122
+  orig: 150, 122
+  offset: 0, 0
+  index: -1
+jinshan2_200
+  rotate: true
+  xy: 1933, 854
+  size: 139, 112
+  orig: 139, 112
+  offset: 0, 0
+  index: -1
+jinshan2_201
+  rotate: 180
+  xy: 1793, 1277
+  size: 252, 192
+  orig: 252, 204
+  offset: 0, 12
+  index: -1
+jinshan2_202
+  rotate: false
+  xy: 1538, 1848
+  size: 124, 121
+  orig: 124, 121
+  offset: 0, 0
+  index: -1
+jinshan2_203
+  rotate: false
+  xy: 1313, 1909
+  size: 119, 59
+  orig: 119, 59
+  offset: 0, 0
+  index: -1
+jinshan2_204
+  rotate: false
+  xy: 806, 1912
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+jinshan2_205
+  rotate: false
+  xy: 1328, 300
+  size: 252, 299
+  orig: 252, 299
+  offset: 0, 0
+  index: -1
+jinshan2_206
+  rotate: 180
+  xy: 389, 291
+  size: 294, 342
+  orig: 294, 342
+  offset: 0, 0
+  index: -1
+jinshan2_207
+  rotate: false
+  xy: 2, 77
+  size: 201, 173
+  orig: 564, 407
+  offset: 363, 0
+  index: -1
+jinshan2_208
+  rotate: false
+  xy: 1013, 1638
+  size: 379, 331
+  orig: 379, 331
+  offset: 0, 0
+  index: -1
+jinshan2_209
+  rotate: false
+  xy: 1116, 1350
+  size: 357, 295
+  orig: 357, 295
+  offset: 0, 0
+  index: -1
+jinshan2_210
+  rotate: false
+  xy: 2, 428
+  size: 472, 485
+  orig: 472, 485
+  offset: 0, 0
+  index: -1
+jinshan2_211
+  rotate: true
+  xy: 1240, 109
+  size: 227, 308
+  orig: 235, 308
+  offset: 0, 0
+  index: -1
+jinshan2_212
+  rotate: 180
+  xy: 907, 266
+  size: 445, 184
+  orig: 445, 184
+  offset: 0, 0
+  index: -1
+jinshan2_213
+  rotate: false
+  xy: 1564, 1453
+  size: 480, 516
+  orig: 480, 516
+  offset: 0, 0
+  index: -1
+jinshan2_214
+  rotate: true
+  xy: 1392, 1667
+  size: 265, 172
+  orig: 277, 189
+  offset: 0, 17
+  index: -1
+jinshan2_215
+  rotate: false
+  xy: 471, 677
+  size: 232, 182
+  orig: 232, 182
+  offset: 0, 0
+  index: -1
+jinshan2_216
+  rotate: false
+  xy: 154, 1888
+  size: 71, 81
+  orig: 71, 81
+  offset: 0, 0
+  index: -1
+jinshan2_217
+  rotate: false
+  xy: 1351, 4
+  size: 152, 132
+  orig: 152, 132
+  offset: 0, 0
+  index: -1
+jinshan2_218
+  rotate: true
+  xy: 888, 1823
+  size: 145, 124
+  orig: 145, 124
+  offset: 0, 0
+  index: -1
+jinshan2_219
+  rotate: false
+  xy: 1663, 1858
+  size: 172, 110
+  orig: 172, 110
+  offset: 0, 0
+  index: -1
+jinshan2_220
+  rotate: 180
+  xy: 1546, 6
+  size: 165, 149
+  orig: 165, 149
+  offset: 0, 0
+  index: -1
+jinshan2_221
+  rotate: false
+  xy: 1714, 16
+  size: 162, 72
+  orig: 162, 72
+  offset: 0, 0
+  index: -1
+jinshan2_222
+  rotate: false
+  xy: 227, 1926
+  size: 81, 42
+  orig: 81, 42
+  offset: 0, 0
+  index: -1
+jinshan2_223
+  rotate: false
+  xy: 1475, 199
+  size: 131, 123
+  orig: 131, 130
+  offset: 0, 0
+  index: -1
+jinshan2_224
+  rotate: false
+  xy: 1089, 1263
+  size: 132, 107
+  orig: 132, 107
+  offset: 0, 0
+  index: -1
+jinshan2_225
+  rotate: false
+  xy: 2, 832
+  size: 1094, 1137
+  orig: 1094, 1140
+  offset: 0, 0
+  index: -1

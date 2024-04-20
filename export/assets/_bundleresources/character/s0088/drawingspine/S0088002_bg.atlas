@@ -1,0 +1,76 @@
+
+S0088002_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beiban_01
+  rotate: false
+  xy: 1320, 787
+  size: 726, 790
+  orig: 781, 790
+  offset: 0, 0
+  index: -1
+beiban_02
+  rotate: false
+  xy: 2, 543
+  size: 1420, 1504
+  orig: 1449, 1504
+  offset: 29, 0
+  index: -1
+dizuo
+  rotate: false
+  xy: 2, 237
+  size: 1163, 214
+  orig: 1163, 214
+  offset: 0, 0
+  index: -1
+yanwu_01
+  rotate: false
+  xy: 813, 1887
+  size: 603, 160
+  orig: 670, 160
+  offset: 38, 0
+  index: -1
+yanwu_02
+  rotate: true
+  xy: 1422, 1592
+  size: 455, 480
+  orig: 540, 504
+  offset: 33, 24
+  index: -1
+yanwu_03
+  rotate: true
+  xy: 1848, 1346
+  size: 491, 152
+  orig: 581, 176
+  offset: 20, 24
+  index: -1
+yanwu_04
+  rotate: 180
+  xy: 1050, 348
+  size: 952, 438
+  orig: 952, 513
+  offset: 0, 24
+  index: -1
+yanwu_05
+  rotate: 180
+  xy: 1134, 747
+  size: 469, 228
+  orig: 492, 263
+  offset: 23, 35
+  index: -1
+yanwu_06
+  rotate: 180
+  xy: 1167, 180
+  size: 629, 179
+  orig: 629, 305
+  offset: 0, 121
+  index: -1
+yanwu_07
+  rotate: true
+  xy: 2, 1597
+  size: 450, 158
+  orig: 459, 205
+  offset: 7, 17
+  index: -1

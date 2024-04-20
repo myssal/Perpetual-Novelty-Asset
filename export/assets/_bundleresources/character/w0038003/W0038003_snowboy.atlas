@@ -1,0 +1,55 @@
+
+W0038003_snowboy.png
+size: 268,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sheng_b
+  rotate: false
+  xy: 2, 98
+  size: 77, 165
+  orig: 83, 165
+  offset: 6, 0
+  index: -1
+snow_b_arm_R
+  rotate: false
+  xy: 179, 135
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+snow_b_body
+  rotate: true
+  xy: 2, 2
+  size: 94, 116
+  orig: 94, 116
+  offset: 0, 0
+  index: -1
+snow_b_cap
+  rotate: true
+  xy: 120, 8
+  size: 102, 94
+  orig: 110, 97
+  offset: 6, 0
+  index: -1
+snow_b_hand_L
+  rotate: true
+  xy: 81, 112
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+snow_b_hand_R
+  rotate: false
+  xy: 179, 198
+  size: 69, 65
+  orig: 69, 65
+  offset: 0, 0
+  index: -1
+snow_b_head
+  rotate: true
+  xy: 81, 150
+  size: 113, 96
+  orig: 113, 96
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+S0010001_wawa.png
+size: 552,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+w01_face
+  rotate: true
+  xy: 213, 152
+  size: 88, 40
+  orig: 89, 40
+  offset: 0, 0
+  index: -1
+w02_face
+  rotate: true
+  xy: 297, 2
+  size: 90, 41
+  orig: 90, 41
+  offset: 0, 0
+  index: -1
+w02_hand
+  rotate: false
+  xy: 301, 486
+  size: 239, 63
+  orig: 240, 63
+  offset: 1, 0
+  index: -1
+w02_hdj
+  rotate: true
+  xy: 355, 94
+  size: 207, 193
+  orig: 207, 194
+  offset: 0, 1
+  index: -1
+w02_head
+  rotate: false
+  xy: 167, 18
+  size: 128, 132
+  orig: 129, 132
+  offset: 1, 0
+  index: -1
+w02_head_b
+  rotate: false
+  xy: 2, 345
+  size: 297, 204
+  orig: 297, 204
+  offset: 0, 0
+  index: -1
+w02_leg_l
+  rotate: true
+  xy: 213, 242
+  size: 101, 86
+  orig: 102, 88
+  offset: 0, 0
+  index: -1
+w02_leg_r
+  rotate: true
+  xy: 255, 156
+  size: 84, 98
+  orig: 84, 98
+  offset: 0, 0
+  index: -1
+w02_lj
+  rotate: true
+  xy: 301, 243
+  size: 58, 48
+  orig: 58, 50
+  offset: 0, 1
+  index: -1
+w02_qunzi
+  rotate: false
+  xy: 2, 14
+  size: 163, 136
+  orig: 164, 136
+  offset: 0, 0
+  index: -1
+w02_touf
+  rotate: false
+  xy: 301, 303
+  size: 226, 181
+  orig: 228, 181
+  offset: 1, 0
+  index: -1
+w02_touf_b
+  rotate: false
+  xy: 2, 152
+  size: 209, 191
+  orig: 209, 191
+  offset: 0, 0
+  index: -1

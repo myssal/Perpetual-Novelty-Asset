@@ -1,0 +1,90 @@
+
+S0077001_bg.png
+size: 1916,1916
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bu1
+  rotate: false
+  xy: 694, 5
+  size: 645, 1759
+  orig: 668, 1759
+  offset: 0, 0
+  index: -1
+bu2
+  rotate: false
+  xy: 2, 348
+  size: 873, 1566
+  orig: 1327, 1739
+  offset: 443, 173
+  index: -1
+daizi
+  rotate: false
+  xy: 2, 1826
+  size: 23, 52
+  orig: 23, 52
+  offset: 0, 0
+  index: -1
+jiangbei
+  rotate: false
+  xy: 2, 1712
+  size: 148, 202
+  orig: 148, 202
+  offset: 0, 0
+  index: -1
+jiangpai
+  rotate: false
+  xy: 280, 1770
+  size: 128, 143
+  orig: 128, 143
+  offset: 0, 0
+  index: -1
+shu1
+  rotate: 180
+  xy: 1289, 98
+  size: 603, 816
+  orig: 603, 816
+  offset: 0, 0
+  index: -1
+shu2
+  rotate: 270
+  xy: 1147, 916
+  size: 997, 578
+  orig: 997, 805
+  offset: 0, 227
+  index: -1
+tai1
+  rotate: 270
+  xy: 290, 3
+  size: 196, 684
+  orig: 196, 684
+  offset: 0, 0
+  index: -1
+taizi2
+  rotate: false
+  xy: 536, 800
+  size: 173, 358
+  orig: 173, 358
+  offset: 0, 0
+  index: -1
+taizi3
+  rotate: false
+  xy: 1725, 867
+  size: 177, 642
+  orig: 177, 642
+  offset: 0, 0
+  index: -1
+wenrwu
+  rotate: false
+  xy: 150, 1666
+  size: 141, 140
+  orig: 141, 140
+  offset: 0, 0
+  index: -1
+yunguang1
+  rotate: false
+  xy: 493, 200
+  size: 268, 599
+  orig: 268, 599
+  offset: 0, 0
+  index: -1

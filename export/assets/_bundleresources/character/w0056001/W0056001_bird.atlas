@@ -1,0 +1,41 @@
+
+W0056001_bird.png
+size: 568,568
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bird
+  rotate: false
+  xy: 2, 343
+  size: 405, 223
+  orig: 405, 271
+  offset: 0, 0
+  index: -1
+bird_wing1_1
+  rotate: true
+  xy: 2, 134
+  size: 207, 229
+  orig: 207, 244
+  offset: 0, 15
+  index: -1
+bird_wing1_2
+  rotate: false
+  xy: 330, 88
+  size: 196, 230
+  orig: 196, 230
+  offset: 0, 0
+  index: -1
+bird_wing2_1
+  rotate: false
+  xy: 233, 85
+  size: 95, 256
+  orig: 184, 256
+  offset: 0, 0
+  index: -1
+bird_wing2_2
+  rotate: true
+  xy: 409, 320
+  size: 246, 157
+  orig: 258, 157
+  offset: 12, 0
+  index: -1

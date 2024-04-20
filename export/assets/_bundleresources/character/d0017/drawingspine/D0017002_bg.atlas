@@ -1,0 +1,181 @@
+
+D0017002_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: 180
+  xy: 846, 589
+  size: 639, 490
+  orig: 672, 490
+  offset: 13, 0
+  index: -1
+beijing1
+  rotate: false
+  xy: 2, 974
+  size: 1071, 1072
+  orig: 1071, 1072
+  offset: 0, 0
+  index: -1
+beijingyingzi
+  rotate: true
+  xy: 1024, 979
+  size: 1067, 993
+  orig: 1067, 993
+  offset: 0, 0
+  index: -1
+gunzi
+  rotate: false
+  xy: 33, 1934
+  size: 145, 113
+  orig: 145, 113
+  offset: 0, 0
+  index: -1
+renying
+  rotate: true
+  xy: 2, 535
+  size: 522, 606
+  orig: 522, 606
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: false
+  xy: 1845, 1806
+  size: 191, 78
+  orig: 191, 78
+  offset: 0, 0
+  index: -1
+texiao10
+  rotate: false
+  xy: 483, 1880
+  size: 286, 166
+  orig: 286, 166
+  offset: 0, 0
+  index: -1
+texiao11
+  rotate: true
+  xy: 1822, 641
+  size: 342, 135
+  orig: 342, 135
+  offset: 0, 0
+  index: -1
+texiao12-1
+  rotate: 180
+  xy: 2, 538
+  size: 216, 187
+  orig: 216, 187
+  offset: 0, 0
+  index: -1
+texiao12-2
+  rotate: false
+  xy: 771, 1975
+  size: 332, 71
+  orig: 332, 71
+  offset: 0, 0
+  index: -1
+texiao13
+  rotate: false
+  xy: 834, 1895
+  size: 55, 116
+  orig: 55, 116
+  offset: 0, 0
+  index: -1
+texiao2
+  rotate: 180
+  xy: 1932, 1440
+  size: 114, 214
+  orig: 114, 214
+  offset: 0, 0
+  index: -1
+texiao3
+  rotate: false
+  xy: 377, 1967
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+texiao5
+  rotate: false
+  xy: 975, 1094
+  size: 293, 194
+  orig: 293, 194
+  offset: 0, 0
+  index: -1
+texiao6
+  rotate: false
+  xy: 1966, 1618
+  size: 59, 186
+  orig: 59, 186
+  offset: 0, 0
+  index: -1
+texiao7
+  rotate: 270
+  xy: 1486, 806
+  size: 240, 137
+  orig: 240, 137
+  offset: 0, 0
+  index: -1
+texiao8
+  rotate: false
+  xy: 1708, 545
+  size: 214, 156
+  orig: 214, 156
+  offset: 0, 0
+  index: -1
+texiao9
+  rotate: false
+  xy: 792, 547
+  size: 176, 168
+  orig: 176, 168
+  offset: 0, 0
+  index: -1
+texiaohou1
+  rotate: false
+  xy: 301, 926
+  size: 208, 95
+  orig: 208, 95
+  offset: 0, 0
+  index: -1
+texiaohou2
+  rotate: 270
+  xy: 1878, 800
+  size: 313, 167
+  orig: 319, 167
+  offset: 0, 0
+  index: -1
+tizi
+  rotate: false
+  xy: 594, 653
+  size: 238, 358
+  orig: 238, 358
+  offset: 0, 0
+  index: -1
+tiziying
+  rotate: false
+  xy: 1420, 556
+  size: 454, 476
+  orig: 454, 476
+  offset: 0, 0
+  index: -1
+tong
+  rotate: false
+  xy: 2, 1790
+  size: 161, 180
+  orig: 161, 180
+  offset: 0, 0
+  index: -1
+xiangzi
+  rotate: false
+  xy: 1813, 1873
+  size: 197, 173
+  orig: 197, 173
+  offset: 0, 0
+  index: -1
+youqi
+  rotate: false
+  xy: 1402, 1946
+  size: 131, 101
+  orig: 131, 101
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+JQ001A01.png
+size: 2008,2008
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kh_0
+  rotate: false
+  xy: 30, 1703
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+kh_1
+  rotate: false
+  xy: 30, 1749
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+kh_10
+  rotate: true
+  xy: 1610, 123
+  size: 473, 376
+  orig: 473, 376
+  offset: 0, 0
+  index: -1
+kh_11
+  rotate: false
+  xy: 2, 1839
+  size: 145, 164
+  orig: 145, 164
+  offset: 0, 0
+  index: -1
+kh_12
+  rotate: false
+  xy: 902, 1834
+  size: 126, 169
+  orig: 126, 169
+  offset: 0, 0
+  index: -1
+kh_13
+  rotate: false
+  xy: 1292, 318
+  size: 358, 794
+  orig: 358, 794
+  offset: 0, 0
+  index: -1
+kh_14
+  rotate: false
+  xy: 1187, 1164
+  size: 349, 839
+  orig: 349, 839
+  offset: 0, 0
+  index: -1
+kh_15
+  rotate: true
+  xy: 2, 117
+  size: 503, 958
+  orig: 503, 958
+  offset: 0, 0
+  index: -1
+kh_16
+  rotate: 180
+  xy: 1492, 1042
+  size: 510, 565
+  orig: 510, 565
+  offset: 0, 0
+  index: -1
+kh_17
+  rotate: false
+  xy: 2, 622
+  size: 935, 1381
+  orig: 935, 1381
+  offset: 0, 0
+  index: -1
+kh_18
+  rotate: false
+  xy: 881, 443
+  size: 436, 832
+  orig: 436, 832
+  offset: 0, 0
+  index: -1
+kh_2
+  rotate: false
+  xy: 148, 1953
+  size: 91, 50
+  orig: 91, 50
+  offset: 0, 0
+  index: -1
+kh_3
+  rotate: false
+  xy: 2, 1793
+  size: 123, 46
+  orig: 123, 46
+  offset: 0, 0
+  index: -1
+kh_4
+  rotate: false
+  xy: 2, 1716
+  size: 26, 76
+  orig: 26, 76
+  offset: 0, 0
+  index: -1
+kh_5
+  rotate: false
+  xy: 143, 1871
+  size: 69, 71
+  orig: 69, 71
+  offset: 0, 0
+  index: -1
+kh_6
+  rotate: false
+  xy: 939, 1574
+  size: 106, 38
+  orig: 106, 38
+  offset: 0, 0
+  index: -1
+kh_7
+  rotate: false
+  xy: 939, 1614
+  size: 175, 78
+  orig: 175, 78
+  offset: 0, 0
+  index: -1
+kh_8
+  rotate: false
+  xy: 241, 1966
+  size: 90, 37
+  orig: 90, 37
+  offset: 0, 0
+  index: -1
+kh_9
+  rotate: false
+  xy: 939, 1694
+  size: 144, 138
+  orig: 144, 138
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+V0059001_black.png
+size: 368,368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black_body
+  rotate: false
+  xy: 236, 249
+  size: 79, 117
+  orig: 79, 117
+  offset: 0, 0
+  index: -1
+black_head
+  rotate: false
+  xy: 2, 166
+  size: 232, 200
+  orig: 232, 200
+  offset: 0, 0
+  index: -1
+black_l_calf
+  rotate: true
+  xy: 133, 31
+  size: 40, 108
+  orig: 40, 108
+  offset: 0, 0
+  index: -1
+black_l_forearm
+  rotate: false
+  xy: 236, 163
+  size: 62, 84
+  orig: 62, 84
+  offset: 0, 0
+  index: -1
+black_l_hand
+  rotate: false
+  xy: 243, 23
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+black_l_thigh
+  rotate: false
+  xy: 75, 27
+  size: 56, 137
+  orig: 56, 137
+  offset: 0, 0
+  index: -1
+black_l_upperarm
+  rotate: false
+  xy: 317, 173
+  size: 49, 89
+  orig: 49, 89
+  offset: 0, 0
+  index: -1
+black_pelvis
+  rotate: false
+  xy: 133, 73
+  size: 96, 91
+  orig: 96, 91
+  offset: 0, 0
+  index: -1
+black_r_calf
+  rotate: false
+  xy: 317, 264
+  size: 49, 102
+  orig: 49, 102
+  offset: 0, 0
+  index: -1
+black_r_forearm
+  rotate: false
+  xy: 231, 85
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+black_r_hand
+  rotate: false
+  xy: 291, 106
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+black_r_thigh
+  rotate: false
+  xy: 2, 22
+  size: 71, 142
+  orig: 71, 142
+  offset: 0, 0
+  index: -1
+black_r_upperarm
+  rotate: false
+  xy: 303, 22
+  size: 45, 82
+  orig: 45, 82
+  offset: 0, 0
+  index: -1

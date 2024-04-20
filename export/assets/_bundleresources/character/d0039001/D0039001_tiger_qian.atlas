@@ -1,0 +1,76 @@
+
+D0039001_tiger_qian.png
+size: 436,436
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_laohu_head
+  rotate: true
+  xy: 216, 25
+  size: 144, 142
+  orig: 144, 143
+  offset: 0, 1
+  index: -1
+1_spine
+  rotate: false
+  xy: 2, 307
+  size: 215, 125
+  orig: 215, 125
+  offset: 0, 0
+  index: -1
+1_tail
+  rotate: true
+  xy: 219, 171
+  size: 155, 179
+  orig: 155, 179
+  offset: 0, 0
+  index: -1
+3_laohu_head
+  rotate: true
+  xy: 2, 173
+  size: 132, 135
+  orig: 132, 135
+  offset: 0, 0
+  index: -1
+3_spine
+  rotate: false
+  xy: 219, 328
+  size: 197, 104
+  orig: 197, 104
+  offset: 0, 0
+  index: -1
+3_tail
+  rotate: false
+  xy: 2, 8
+  size: 109, 161
+  orig: 109, 161
+  offset: 0, 0
+  index: -1
+foot1
+  rotate: false
+  xy: 139, 177
+  size: 78, 128
+  orig: 78, 128
+  offset: 0, 0
+  index: -1
+foot2
+  rotate: false
+  xy: 360, 37
+  size: 66, 132
+  orig: 66, 132
+  offset: 0, 0
+  index: -1
+foot3
+  rotate: true
+  xy: 113, 113
+  size: 58, 101
+  orig: 58, 101
+  offset: 0, 0
+  index: -1
+foot4
+  rotate: false
+  xy: 113, 2
+  size: 58, 109
+  orig: 58, 109
+  offset: 0, 0
+  index: -1

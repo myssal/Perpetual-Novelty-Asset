@@ -1,0 +1,55 @@
+
+V0064002_bg.png
+size: 2008,2008
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ban
+  rotate: false
+  xy: 2, 414
+  size: 1210, 1591
+  orig: 1213, 1591
+  offset: 0, 0
+  index: -1
+bianqian
+  rotate: false
+  xy: 2, 1160
+  size: 112, 126
+  orig: 112, 126
+  offset: 0, 0
+  index: -1
+biejing
+  rotate: 180
+  xy: 879, 52
+  size: 1125, 1126
+  orig: 1125, 1126
+  offset: 0, 0
+  index: -1
+yan20
+  rotate: false
+  xy: 1076, 1594
+  size: 380, 372
+  orig: 380, 372
+  offset: 0, 0
+  index: -1
+yan21
+  rotate: false
+  xy: 2, 169
+  size: 300, 243
+  orig: 300, 243
+  offset: 0, 0
+  index: -1
+yan22
+  rotate: false
+  xy: 1407, 1536
+  size: 537, 158
+  orig: 537, 158
+  offset: 0, 0
+  index: -1
+yan23
+  rotate: false
+  xy: 1098, 1185
+  size: 456, 349
+  orig: 456, 349
+  offset: 0, 0
+  index: -1

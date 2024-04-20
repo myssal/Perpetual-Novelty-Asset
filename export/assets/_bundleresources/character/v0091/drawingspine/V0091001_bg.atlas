@@ -1,0 +1,125 @@
+
+V0091001_bg.png
+size: 1136,1136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yan_01
+  rotate: false
+  xy: 2, 232
+  size: 659, 497
+  orig: 659, 497
+  offset: 0, 0
+  index: -1
+yan_03
+  rotate: false
+  xy: 2, 122
+  size: 314, 108
+  orig: 314, 108
+  offset: 0, 0
+  index: -1
+yanshi_01
+  rotate: false
+  xy: 2, 16
+  size: 117, 104
+  orig: 117, 104
+  offset: 0, 0
+  index: -1
+yanshi_02
+  rotate: false
+  xy: 946, 313
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+yanshi_03
+  rotate: false
+  xy: 536, 125
+  size: 116, 105
+  orig: 116, 105
+  offset: 0, 0
+  index: -1
+yanshi_04
+  rotate: false
+  xy: 663, 309
+  size: 281, 420
+  orig: 281, 420
+  offset: 0, 0
+  index: -1
+yanshi_05
+  rotate: true
+  xy: 663, 18
+  size: 289, 388
+  orig: 289, 388
+  offset: 0, 0
+  index: -1
+yanshi_06
+  rotate: false
+  xy: 121, 17
+  size: 98, 103
+  orig: 98, 103
+  offset: 0, 0
+  index: -1
+yanshi_07
+  rotate: true
+  xy: 536, 89
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+yanshi_08
+  rotate: true
+  xy: 318, 80
+  size: 150, 216
+  orig: 150, 216
+  offset: 0, 0
+  index: -1
+yanshi_09
+  rotate: false
+  xy: 946, 379
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+yanshi_10
+  rotate: true
+  xy: 946, 517
+  size: 212, 168
+  orig: 212, 168
+  offset: 0, 0
+  index: -1
+yanshi_11
+  rotate: false
+  xy: 1014, 349
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+yanshi_12
+  rotate: false
+  xy: 299, 9
+  size: 88, 69
+  orig: 88, 69
+  offset: 0, 0
+  index: -1
+yanshi_13
+  rotate: false
+  xy: 389, 39
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+yanshi_14
+  rotate: false
+  xy: 221, 2
+  size: 76, 118
+  orig: 76, 118
+  offset: 0, 0
+  index: -1
+yanshi_18
+  rotate: false
+  xy: 2, 731
+  size: 1123, 401
+  orig: 1123, 401
+  offset: 0, 0
+  index: -1

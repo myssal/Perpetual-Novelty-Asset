@@ -1,0 +1,27 @@
+
+W0051001_chair.png
+size: 1088,1088
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chair1
+  rotate: false
+  xy: 2, 642
+  size: 851, 441
+  orig: 852, 449
+  offset: 1, 7
+  index: -1
+chair2
+  rotate: true
+  xy: 855, 650
+  size: 168, 228
+  orig: 168, 228
+  offset: 0, 0
+  index: -1
+chair3
+  rotate: true
+  xy: 855, 820
+  size: 263, 147
+  orig: 263, 147
+  offset: 0, 0
+  index: -1

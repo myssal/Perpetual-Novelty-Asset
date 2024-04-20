@@ -1,0 +1,293 @@
+
+A0003003_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 639
+  size: 1748, 1406
+  orig: 1748, 1422
+  offset: 0, 16
+  index: -1
+shafa
+  rotate: 180
+  xy: 2, 4
+  size: 932, 824
+  orig: 932, 824
+  offset: 0, 0
+  index: -1
+yudi_1
+  rotate: false
+  xy: 26, 1694
+  size: 9, 62
+  orig: 9, 62
+  offset: 0, 0
+  index: -1
+yudi_10
+  rotate: false
+  xy: 67, 1877
+  size: 5, 55
+  orig: 5, 55
+  offset: 0, 0
+  index: -1
+yudi_11
+  rotate: false
+  xy: 45, 1813
+  size: 7, 58
+  orig: 7, 58
+  offset: 0, 0
+  index: -1
+yudi_12
+  rotate: false
+  xy: 22, 1758
+  size: 10, 77
+  orig: 10, 77
+  offset: 0, 0
+  index: -1
+yudi_13
+  rotate: false
+  xy: 54, 1800
+  size: 5, 75
+  orig: 5, 75
+  offset: 0, 0
+  index: -1
+yudi_14
+  rotate: false
+  xy: 60, 1867
+  size: 5, 68
+  orig: 5, 68
+  offset: 0, 0
+  index: -1
+yudi_15
+  rotate: false
+  xy: 72, 1722
+  size: 4, 58
+  orig: 4, 58
+  offset: 0, 0
+  index: -1
+yudi_16
+  rotate: false
+  xy: 73, 1920
+  size: 3, 34
+  orig: 3, 34
+  offset: 0, 0
+  index: -1
+yudi_17
+  rotate: false
+  xy: 2, 1915
+  size: 19, 129
+  orig: 19, 129
+  offset: 0, 0
+  index: -1
+yudi_18
+  rotate: false
+  xy: 2, 1696
+  size: 9, 98
+  orig: 9, 98
+  offset: 0, 0
+  index: -1
+yudi_19
+  rotate: false
+  xy: 48, 1877
+  size: 4, 83
+  orig: 4, 83
+  offset: 0, 0
+  index: -1
+yudi_2
+  rotate: false
+  xy: 36, 1727
+  size: 7, 59
+  orig: 7, 59
+  offset: 0, 0
+  index: -1
+yudi_20
+  rotate: false
+  xy: 72, 1995
+  size: 4, 49
+  orig: 4, 49
+  offset: 0, 0
+  index: -1
+yudi_21
+  rotate: false
+  xy: 11, 1812
+  size: 8, 101
+  orig: 8, 101
+  offset: 0, 0
+  index: -1
+yudi_22
+  rotate: false
+  xy: 54, 1747
+  size: 7, 52
+  orig: 7, 52
+  offset: 0, 0
+  index: -1
+yudi_23
+  rotate: false
+  xy: 12, 1650
+  size: 12, 55
+  orig: 12, 55
+  offset: 0, 0
+  index: -1
+yudi_24
+  rotate: false
+  xy: 23, 1986
+  size: 10, 59
+  orig: 10, 59
+  offset: 0, 0
+  index: -1
+yudi_25
+  rotate: false
+  xy: 63, 1721
+  size: 7, 39
+  orig: 7, 39
+  offset: 0, 0
+  index: -1
+yudi_26
+  rotate: false
+  xy: 12, 1706
+  size: 8, 104
+  orig: 8, 104
+  offset: 0, 0
+  index: -1
+yudi_27
+  rotate: false
+  xy: 60, 1822
+  size: 7, 42
+  orig: 7, 42
+  offset: 0, 0
+  index: -1
+yudi_28
+  rotate: false
+  xy: 45, 1751
+  size: 6, 60
+  orig: 6, 60
+  offset: 0, 0
+  index: -1
+yudi_29
+  rotate: false
+  xy: 34, 1843
+  size: 5, 84
+  orig: 5, 84
+  offset: 0, 0
+  index: -1
+yudi_3
+  rotate: false
+  xy: 34, 1789
+  size: 9, 52
+  orig: 9, 52
+  offset: 0, 0
+  index: -1
+yudi_30
+  rotate: false
+  xy: 21, 1837
+  size: 11, 77
+  orig: 11, 77
+  offset: 0, 0
+  index: -1
+yudi_31
+  rotate: false
+  xy: 56, 1998
+  size: 7, 47
+  orig: 7, 47
+  offset: 0, 0
+  index: -1
+yudi_32
+  rotate: false
+  xy: 65, 1991
+  size: 5, 53
+  orig: 5, 53
+  offset: 0, 0
+  index: -1
+yudi_33
+  rotate: false
+  xy: 69, 1829
+  size: 5, 46
+  orig: 5, 46
+  offset: 0, 0
+  index: -1
+yudi_34
+  rotate: false
+  xy: 48, 1977
+  size: 5, 68
+  orig: 5, 68
+  offset: 0, 0
+  index: -1
+yudi_35
+  rotate: false
+  xy: 42, 1962
+  size: 5, 83
+  orig: 5, 83
+  offset: 0, 0
+  index: -1
+yudi_36
+  rotate: false
+  xy: 41, 1873
+  size: 5, 84
+  orig: 5, 84
+  offset: 0, 0
+  index: -1
+yudi_37
+  rotate: false
+  xy: 73, 1956
+  size: 5, 37
+  orig: 5, 37
+  offset: 0, 0
+  index: -1
+yudi_38
+  rotate: false
+  xy: 35, 1958
+  size: 5, 86
+  orig: 5, 86
+  offset: 0, 0
+  index: -1
+yudi_39
+  rotate: false
+  xy: 2, 804
+  size: 333, 357
+  orig: 343, 357
+  offset: 0, 0
+  index: -1
+yudi_4
+  rotate: false
+  xy: 23, 1929
+  size: 10, 56
+  orig: 10, 56
+  offset: 0, 0
+  index: -1
+yudi_5
+  rotate: false
+  xy: 54, 1936
+  size: 9, 39
+  orig: 9, 39
+  offset: 0, 0
+  index: -1
+yudi_6
+  rotate: false
+  xy: 2, 1795
+  size: 8, 118
+  orig: 8, 118
+  offset: 0, 0
+  index: -1
+yudi_7
+  rotate: false
+  xy: 69, 1781
+  size: 5, 45
+  orig: 5, 45
+  offset: 0, 0
+  index: -1
+yudi_8
+  rotate: false
+  xy: 63, 1762
+  size: 5, 59
+  orig: 5, 59
+  offset: 0, 0
+  index: -1
+yudi_9
+  rotate: false
+  xy: 67, 1934
+  size: 5, 56
+  orig: 5, 56
+  offset: 0, 0
+  index: -1

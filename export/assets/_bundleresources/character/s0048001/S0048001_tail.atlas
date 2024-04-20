@@ -1,0 +1,34 @@
+
+S0048001_tail.png
+size: 1060,1060
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon_body1
+  rotate: true
+  xy: 2, 1005
+  size: 52, 565
+  orig: 52, 601
+  offset: 0, 36
+  index: -1
+dragon_body2
+  rotate: true
+  xy: 569, 1003
+  size: 54, 488
+  orig: 102, 488
+  offset: 48, 0
+  index: -1
+dragon_body_hair1
+  rotate: true
+  xy: 2, 919
+  size: 84, 549
+  orig: 103, 549
+  offset: 19, 0
+  index: -1
+dragon_body_hair2
+  rotate: true
+  xy: 553, 917
+  size: 84, 489
+  orig: 126, 489
+  offset: 42, 0
+  index: -1

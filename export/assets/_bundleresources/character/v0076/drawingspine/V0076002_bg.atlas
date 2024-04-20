@@ -1,0 +1,104 @@
+
+V0076002_bg.png
+size: 2044,2044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_hua
+  rotate: false
+  xy: 919, 1999
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+B_hua2
+  rotate: false
+  xy: 1291, 436
+  size: 129, 98
+  orig: 129, 98
+  offset: 0, 0
+  index: -1
+bb1
+  rotate: false
+  xy: 1037, 536
+  size: 770, 398
+  orig: 770, 398
+  offset: 0, 0
+  index: -1
+bb2
+  rotate: true
+  xy: 919, 936
+  size: 1044, 945
+  orig: 1044, 945
+  offset: 0, 0
+  index: -1
+bb3
+  rotate: false
+  xy: 1319, 170
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+bb4
+  rotate: false
+  xy: 2, 4
+  size: 1034, 931
+  orig: 1034, 931
+  offset: 0, 0
+  index: -1
+chuangkuang
+  rotate: false
+  xy: 2, 936
+  size: 915, 1105
+  orig: 915, 1105
+  offset: 0, 0
+  index: -1
+dai1
+  rotate: false
+  xy: 1255, 228
+  size: 221, 175
+  orig: 223, 175
+  offset: 0, 0
+  index: -1
+huo
+  rotate: false
+  xy: 965, 2008
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1
+huoguang
+  rotate: false
+  xy: 1393, 214
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+tanzi
+  rotate: false
+  xy: 1037, 67
+  size: 366, 216
+  orig: 366, 216
+  offset: 0, 0
+  index: -1
+zhentou
+  rotate: false
+  xy: 1349, 5
+  size: 83, 75
+  orig: 83, 75
+  offset: 0, 0
+  index: -1
+zhu1
+  rotate: false
+  xy: 1397, 135
+  size: 65, 77
+  orig: 65, 77
+  offset: 0, 0
+  index: -1
+zhuozi
+  rotate: false
+  xy: 1037, 282
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+MS01801.png
+size: 536,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 245, 67
+  size: 164, 467
+  orig: 165, 468
+  offset: 0, 1
+  index: -1
+1_1
+  rotate: false
+  xy: 2, 2
+  size: 241, 532
+  orig: 252, 548
+  offset: 6, 9
+  index: -1

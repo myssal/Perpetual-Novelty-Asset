@@ -1,0 +1,55 @@
+
+A0093001_cat.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cat_beard
+  rotate: true
+  xy: 148, 2
+  size: 143, 48
+  orig: 143, 48
+  offset: 0, 0
+  index: -1
+cat_ear_l
+  rotate: false
+  xy: 148, 147
+  size: 53, 67
+  orig: 57, 68
+  offset: 2, 0
+  index: -1
+cat_ear_r
+  rotate: false
+  xy: 99, 2
+  size: 45, 88
+  orig: 45, 88
+  offset: 0, 0
+  index: -1
+cat_eye1
+  rotate: true
+  xy: 49, 11
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+cat_eye2
+  rotate: false
+  xy: 2, 16
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+cat_spine
+  rotate: false
+  xy: 2, 92
+  size: 144, 122
+  orig: 144, 122
+  offset: 0, 0
+  index: -1
+cat_tail
+  rotate: false
+  xy: 2, 46
+  size: 95, 44
+  orig: 95, 45
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+S0048001_dragonlord.png
+size: 1984,1984
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragonlord_beard
+  rotate: true
+  xy: 548, 53
+  size: 555, 367
+  orig: 555, 367
+  offset: 0, 0
+  index: -1
+dragonlord_body1
+  rotate: true
+  xy: 856, 1281
+  size: 701, 1109
+  orig: 701, 1109
+  offset: 0, 0
+  index: -1
+dragonlord_body2
+  rotate: false
+  xy: 917, 324
+  size: 991, 427
+  orig: 991, 427
+  offset: 0, 0
+  index: -1
+dragonlord_hair1
+  rotate: false
+  xy: 2, 832
+  size: 852, 1150
+  orig: 852, 1150
+  offset: 0, 0
+  index: -1
+dragonlord_hair2
+  rotate: false
+  xy: 856, 753
+  size: 1080, 526
+  orig: 1080, 526
+  offset: 0, 0
+  index: -1
+dragonlord_head1
+  rotate: true
+  xy: 2, 86
+  size: 665, 544
+  orig: 671, 646
+  offset: 0, 102
+  index: -1
+dragonlord_head2
+  rotate: false
+  xy: 1615, 151
+  size: 155, 171
+  orig: 155, 182
+  offset: 0, 11
+  index: -1
+dragonlord_horn
+  rotate: true
+  xy: 917, 2
+  size: 320, 460
+  orig: 338, 462
+  offset: 18, 2
+  index: -1
+dragonlord_zhua1
+  rotate: true
+  xy: 548, 610
+  size: 220, 248
+  orig: 220, 248
+  offset: 0, 0
+  index: -1
+dragonlord_zhua2
+  rotate: true
+  xy: 1379, 83
+  size: 239, 234
+  orig: 240, 235
+  offset: 1, 1
+  index: -1

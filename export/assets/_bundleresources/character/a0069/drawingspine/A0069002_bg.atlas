@@ -1,0 +1,146 @@
+
+A0069002_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houmen
+  rotate: true
+  xy: 466, 2
+  size: 432, 687
+  orig: 432, 687
+  offset: 0, 0
+  index: -1
+houshuye_01
+  rotate: true
+  xy: 1155, 110
+  size: 284, 335
+  orig: 284, 335
+  offset: 0, 0
+  index: -1
+houshuye_02
+  rotate: 270
+  xy: 2, 66
+  size: 644, 380
+  orig: 644, 380
+  offset: 0, 0
+  index: -1
+houshuye_03
+  rotate: false
+  xy: 1181, 1838
+  size: 153, 208
+  orig: 153, 208
+  offset: 0, 0
+  index: -1
+houshuye_05
+  rotate: false
+  xy: 1264, 695
+  size: 359, 515
+  orig: 359, 515
+  offset: 0, 0
+  index: -1
+houshuye_06
+  rotate: true
+  xy: 1733, 481
+  size: 286, 257
+  orig: 286, 257
+  offset: 0, 0
+  index: -1
+menkuang111
+  rotate: false
+  xy: 1062, 338
+  size: 688, 938
+  orig: 688, 938
+  offset: 0, 0
+  index: -1
+qianmen
+  rotate: false
+  xy: 1175, 1088
+  size: 338, 758
+  orig: 338, 758
+  offset: 0, 0
+  index: -1
+qianshuye_00
+  rotate: false
+  xy: 1742, 1769
+  size: 252, 256
+  orig: 252, 265
+  offset: 0, 9
+  index: -1
+quanshuye_01
+  rotate: 270
+  xy: 354, 395
+  size: 559, 755
+  orig: 559, 755
+  offset: 0, 0
+  index: -1
+quanshuye_02
+  rotate: false
+  xy: 1563, 3
+  size: 302, 527
+  orig: 302, 527
+  offset: 0, 0
+  index: -1
+quanshuye_03
+  rotate: false
+  xy: 2, 1280
+  size: 404, 272
+  orig: 404, 272
+  offset: 0, 0
+  index: -1
+quanshuye_04
+  rotate: false
+  xy: 2, 713
+  size: 787, 488
+  orig: 787, 488
+  offset: 0, 0
+  index: -1
+quanshuye_05
+  rotate: false
+  xy: 2, 1766
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1
+quanshuye_07
+  rotate: false
+  xy: 2, 1142
+  size: 109, 136
+  orig: 109, 136
+  offset: 0, 0
+  index: -1
+quanshuye_08
+  rotate: false
+  xy: 1435, 1809
+  size: 348, 237
+  orig: 348, 237
+  offset: 0, 0
+  index: -1
+quanshuye_09
+  rotate: true
+  xy: 1484, 1277
+  size: 490, 422
+  orig: 490, 422
+  offset: 0, 0
+  index: -1
+quanshuye_10
+  rotate: 270
+  xy: 408, 1059
+  size: 988, 787
+  orig: 988, 787
+  offset: 0, 0
+  index: -1
+shuzhi
+  rotate: true
+  xy: 1738, 768
+  size: 375, 141
+  orig: 375, 141
+  offset: 0, 0
+  index: -1
+yanwu_13
+  rotate: false
+  xy: 2, 1399
+  size: 828, 647
+  orig: 828, 647
+  offset: 0, 0
+  index: -1

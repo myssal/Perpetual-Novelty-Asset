@@ -1,0 +1,167 @@
+
+W0085002_bg.png
+size: 1148,1148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_deng_01
+  rotate: false
+  xy: 545, 10
+  size: 213, 219
+  orig: 213, 219
+  offset: 0, 0
+  index: -1
+L_deng_03
+  rotate: false
+  xy: 330, 5
+  size: 213, 224
+  orig: 213, 224
+  offset: 0, 0
+  index: -1
+L_guang_01
+  rotate: false
+  xy: 399, 861
+  size: 264, 283
+  orig: 264, 283
+  offset: 0, 0
+  index: -1
+L_guang_02
+  rotate: true
+  xy: 399, 595
+  size: 264, 282
+  orig: 264, 282
+  offset: 0, 0
+  index: -1
+L_yinxiang
+  rotate: false
+  xy: 2, 592
+  size: 395, 552
+  orig: 395, 552
+  offset: 0, 0
+  index: -1
+R_deng_01
+  rotate: false
+  xy: 635, 286
+  size: 116, 307
+  orig: 116, 307
+  offset: 0, 0
+  index: -1
+R_deng_02
+  rotate: true
+  xy: 2, 2
+  size: 118, 326
+  orig: 118, 326
+  offset: 0, 0
+  index: -1
+R_guang_01
+  rotate: true
+  xy: 665, 889
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+R_guang_02
+  rotate: false
+  xy: 760, 65
+  size: 170, 176
+  orig: 170, 176
+  offset: 0, 0
+  index: -1
+R_yinxiang
+  rotate: false
+  xy: 2, 122
+  size: 326, 468
+  orig: 348, 468
+  offset: 22, 0
+  index: -1
+yanwu_01
+  rotate: true
+  xy: 932, 62
+  size: 179, 94
+  orig: 179, 94
+  offset: 0, 0
+  index: -1
+yanwu_02
+  rotate: true
+  xy: 683, 620
+  size: 267, 70
+  orig: 267, 70
+  offset: 0, 0
+  index: -1
+yanwu_03
+  rotate: false
+  xy: 330, 231
+  size: 303, 359
+  orig: 303, 359
+  offset: 0, 0
+  index: -1
+yinlang_01
+  rotate: true
+  xy: 635, 243
+  size: 41, 448
+  orig: 41, 448
+  offset: 0, 0
+  index: -1
+yinlang_02
+  rotate: false
+  xy: 1029, 696
+  size: 33, 448
+  orig: 33, 448
+  offset: 0, 0
+  index: -1
+yinlang_03
+  rotate: false
+  xy: 951, 507
+  size: 38, 637
+  orig: 38, 637
+  offset: 0, 0
+  index: -1
+yinlang_04
+  rotate: false
+  xy: 839, 365
+  size: 35, 522
+  orig: 35, 522
+  offset: 0, 0
+  index: -1
+yinlang_05
+  rotate: false
+  xy: 991, 540
+  size: 36, 604
+  orig: 36, 604
+  offset: 0, 0
+  index: -1
+yinlang_06
+  rotate: false
+  xy: 1085, 3
+  size: 37, 524
+  orig: 37, 524
+  offset: 0, 0
+  index: -1
+yinlang_07
+  rotate: false
+  xy: 800, 347
+  size: 37, 540
+  orig: 37, 540
+  offset: 0, 0
+  index: -1
+yinlang_08
+  rotate: false
+  xy: 1085, 529
+  size: 43, 615
+  orig: 43, 615
+  offset: 0, 0
+  index: -1
+yinlang_09
+  rotate: false
+  xy: 755, 345
+  size: 43, 542
+  orig: 43, 542
+  offset: 0, 0
+  index: -1
+yinlang_10
+  rotate: false
+  xy: 906, 576
+  size: 43, 568
+  orig: 43, 568
+  offset: 0, 0
+  index: -1

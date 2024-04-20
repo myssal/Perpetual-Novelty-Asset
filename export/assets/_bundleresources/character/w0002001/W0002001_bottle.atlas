@@ -1,0 +1,48 @@
+
+W0002001_bottle.png
+size: 292,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottle
+  rotate: false
+  xy: 2, 123
+  size: 121, 167
+  orig: 122, 167
+  offset: 1, 0
+  index: -1
+bottle_YU
+  rotate: true
+  xy: 125, 129
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+bottle_base
+  rotate: true
+  xy: 2, 2
+  size: 119, 163
+  orig: 122, 167
+  offset: 2, 2
+  index: -1
+bottle_bone
+  rotate: true
+  xy: 167, 34
+  size: 28, 89
+  orig: 28, 89
+  offset: 0, 0
+  index: -1
+bottle_water
+  rotate: true
+  xy: 125, 174
+  size: 116, 128
+  orig: 122, 167
+  offset: 3, 5
+  index: -1
+bottle_watersurface
+  rotate: true
+  xy: 177, 64
+  size: 108, 19
+  orig: 108, 19
+  offset: 0, 0
+  index: -1

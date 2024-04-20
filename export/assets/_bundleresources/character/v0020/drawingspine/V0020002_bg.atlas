@@ -1,0 +1,132 @@
+
+V0020002_bg.png
+size: 1856,1856
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackGround
+  rotate: false
+  xy: 2, 817
+  size: 967, 1034
+  orig: 1000, 1034
+  offset: 33, 0
+  index: -1
+Chaizi_A
+  rotate: false
+  xy: 22, 1628
+  size: 30, 77
+  orig: 30, 77
+  offset: 0, 0
+  index: -1
+Chaizi_A_Shadow
+  rotate: false
+  xy: 2, 1563
+  size: 30, 77
+  orig: 30, 77
+  offset: 0, 0
+  index: -1
+Chaizi_B
+  rotate: false
+  xy: 2, 1643
+  size: 27, 84
+  orig: 27, 84
+  offset: 0, 0
+  index: -1
+Chaizi_B_Shadow
+  rotate: false
+  xy: 43, 1597
+  size: 27, 84
+  orig: 27, 84
+  offset: 0, 0
+  index: -1
+Ditan
+  rotate: false
+  xy: 145, 292
+  size: 854, 737
+  orig: 854, 737
+  offset: 0, 0
+  index: -1
+Erhuan_A
+  rotate: false
+  xy: 19, 1512
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+Erhuan_A_Shadow
+  rotate: false
+  xy: 2, 1554
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Erhuan_B
+  rotate: false
+  xy: 22, 1607
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+Erhuan_B_Shadow
+  rotate: false
+  xy: 2, 1535
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+Guizi_A
+  rotate: 180
+  xy: 922, 695
+  size: 626, 566
+  orig: 633, 976
+  offset: 7, 0
+  index: -1
+Guizi_B
+  rotate: 180
+  xy: 1391, 1183
+  size: 366, 669
+  orig: 657, 898
+  offset: 4, 229
+  index: -1
+Guizi_C
+  rotate: false
+  xy: 533, 298
+  size: 437, 428
+  orig: 437, 443
+  offset: 0, 15
+  index: -1
+Guizi_D
+  rotate: false
+  xy: 746, 1161
+  size: 718, 691
+  orig: 718, 691
+  offset: 0, 0
+  index: -1
+Pinzi
+  rotate: 270
+  xy: 1404, 828
+  size: 454, 446
+  orig: 454, 446
+  offset: 0, 0
+  index: -1
+Shipin_A
+  rotate: false
+  xy: 2, 1728
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+Shipin_A_Shadow
+  rotate: false
+  xy: 2, 1790
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+pingzi2
+  rotate: true
+  xy: 932, 318
+  size: 322, 625
+  orig: 322, 625
+  offset: 0, 0
+  index: -1

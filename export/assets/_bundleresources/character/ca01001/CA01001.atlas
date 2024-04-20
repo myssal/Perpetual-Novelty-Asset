@@ -1,0 +1,125 @@
+
+CA01001.png
+size: 852,852
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_body
+  rotate: false
+  xy: 2, 479
+  size: 492, 371
+  orig: 493, 372
+  offset: 0, 1
+  index: -1
+01_body2
+  rotate: true
+  xy: 729, 250
+  size: 122, 96
+  orig: 122, 96
+  offset: 0, 0
+  index: -1
+01_fanblade
+  rotate: false
+  xy: 194, 12
+  size: 147, 109
+  orig: 149, 111
+  offset: 1, 1
+  index: -1
+01_l_tail
+  rotate: false
+  xy: 606, 177
+  size: 171, 58
+  orig: 171, 58
+  offset: 0, 0
+  index: -1
+01_l_wing
+  rotate: true
+  xy: 606, 237
+  size: 135, 121
+  orig: 143, 121
+  offset: 7, 0
+  index: -1
+01_pao
+  rotate: true
+  xy: 2, 219
+  size: 258, 197
+  orig: 258, 197
+  offset: 0, 0
+  index: -1
+01_r_tail
+  rotate: false
+  xy: 779, 98
+  size: 60, 150
+  orig: 68, 151
+  offset: 1, 1
+  index: -1
+01_r_wing
+  rotate: true
+  xy: 461, 163
+  size: 209, 143
+  orig: 217, 149
+  offset: 8, 2
+  index: -1
+03_body
+  rotate: true
+  xy: 496, 374
+  size: 476, 343
+  orig: 476, 343
+  offset: 0, 0
+  index: -1
+03_body2
+  rotate: false
+  xy: 2, 6
+  size: 138, 89
+  orig: 138, 89
+  offset: 0, 0
+  index: -1
+03_fanblade
+  rotate: false
+  xy: 343, 11
+  size: 163, 97
+  orig: 163, 97
+  offset: 0, 0
+  index: -1
+03_l_tail
+  rotate: true
+  xy: 639, 2
+  size: 94, 152
+  orig: 94, 152
+  offset: 0, 0
+  index: -1
+03_l_wing
+  rotate: false
+  xy: 2, 97
+  size: 190, 120
+  orig: 190, 120
+  offset: 0, 0
+  index: -1
+03_pao
+  rotate: false
+  xy: 201, 296
+  size: 258, 181
+  orig: 258, 181
+  offset: 0, 0
+  index: -1
+03_r_tail
+  rotate: true
+  xy: 377, 110
+  size: 184, 76
+  orig: 184, 76
+  offset: 0, 0
+  index: -1
+03_r_wing
+  rotate: true
+  xy: 201, 123
+  size: 171, 174
+  orig: 171, 174
+  offset: 0, 0
+  index: -1
+fanblade
+  rotate: false
+  xy: 508, 13
+  size: 129, 148
+  orig: 130, 150
+  offset: 1, 1
+  index: -1

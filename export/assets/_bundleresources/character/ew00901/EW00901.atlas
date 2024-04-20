@@ -1,0 +1,20 @@
+
+EW00901.png
+size: 348,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball1
+  rotate: false
+  xy: 2, 82
+  size: 262, 263
+  orig: 262, 263
+  offset: 0, 0
+  index: -1
+ball2
+  rotate: true
+  xy: 2, 2
+  size: 78, 79
+  orig: 78, 79
+  offset: 0, 0
+  index: -1

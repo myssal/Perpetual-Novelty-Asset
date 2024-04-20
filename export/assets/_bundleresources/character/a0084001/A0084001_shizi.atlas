@@ -1,0 +1,132 @@
+
+A0084001_shizi.png
+size: 1560,1560
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shizi_eye1
+  rotate: false
+  xy: 2, 41
+  size: 521, 191
+  orig: 533, 196
+  offset: 8, 1
+  index: -1
+shizi_eye2
+  rotate: false
+  xy: 940, 923
+  size: 527, 177
+  orig: 562, 184
+  offset: 5, 6
+  index: -1
+shizi_hair1
+  rotate: true
+  xy: 657, 324
+  size: 562, 241
+  orig: 562, 241
+  offset: 0, 0
+  index: -1
+shizi_hair2
+  rotate: false
+  xy: 2, 888
+  size: 936, 670
+  orig: 936, 684
+  offset: 0, 0
+  index: -1
+shizi_head
+  rotate: false
+  xy: 940, 1102
+  size: 582, 456
+  orig: 636, 500
+  offset: 30, 0
+  index: -1
+shizi_l_ear
+  rotate: false
+  xy: 1361, 130
+  size: 70, 82
+  orig: 71, 83
+  offset: 0, 1
+  index: -1
+shizi_l_eye
+  rotate: false
+  xy: 922, 80
+  size: 113, 111
+  orig: 114, 113
+  offset: 1, 1
+  index: -1
+shizi_l_foot
+  rotate: true
+  xy: 900, 304
+  size: 171, 259
+  orig: 171, 259
+  offset: 0, 0
+  index: -1
+shizi_l_foot2
+  rotate: false
+  xy: 1161, 124
+  size: 198, 398
+  orig: 198, 398
+  offset: 0, 0
+  index: -1
+shizi_l_hand
+  rotate: false
+  xy: 1140, 524
+  size: 222, 397
+  orig: 245, 399
+  offset: 23, 1
+  index: -1
+shizi_mouth1
+  rotate: true
+  xy: 1361, 214
+  size: 298, 173
+  orig: 298, 173
+  offset: 0, 0
+  index: -1
+shizi_mouth2
+  rotate: false
+  xy: 783, 193
+  size: 331, 109
+  orig: 333, 110
+  offset: 1, 1
+  index: -1
+shizi_r_ear
+  rotate: false
+  xy: 1469, 984
+  size: 89, 116
+  orig: 89, 117
+  offset: 0, 1
+  index: -1
+shizi_r_eye
+  rotate: false
+  xy: 783, 64
+  size: 137, 127
+  orig: 139, 128
+  offset: 1, 1
+  index: -1
+shizi_r_foot
+  rotate: true
+  xy: 525, 60
+  size: 172, 256
+  orig: 172, 256
+  offset: 0, 0
+  index: -1
+shizi_r_foot2
+  rotate: false
+  xy: 1364, 514
+  size: 185, 407
+  orig: 185, 407
+  offset: 0, 0
+  index: -1
+shizi_r_hand
+  rotate: false
+  xy: 900, 477
+  size: 238, 409
+  orig: 248, 409
+  offset: 0, 0
+  index: -1
+shizi_spine
+  rotate: false
+  xy: 2, 234
+  size: 653, 652
+  orig: 653, 652
+  offset: 0, 0
+  index: -1

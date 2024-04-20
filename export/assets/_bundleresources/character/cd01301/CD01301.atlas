@@ -1,0 +1,146 @@
+
+CD01301.png
+size: 1120,1120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01banzihou
+  rotate: false
+  xy: 499, 2
+  size: 170, 308
+  orig: 171, 312
+  offset: 0, 0
+  index: -1
+01banziqian
+  rotate: false
+  xy: 407, 862
+  size: 268, 256
+  orig: 269, 256
+  offset: 0, 0
+  index: -1
+01cheshen
+  rotate: false
+  xy: 2, 699
+  size: 403, 419
+  orig: 405, 420
+  offset: 0, 0
+  index: -1
+01chetou
+  rotate: false
+  xy: 255, 5
+  size: 242, 251
+  orig: 249, 266
+  offset: 0, 5
+  index: -1
+01houlun1
+  rotate: false
+  xy: 690, 624
+  size: 213, 242
+  orig: 214, 246
+  offset: 1, 0
+  index: -1
+01paiqi1
+  rotate: false
+  xy: 441, 312
+  size: 181, 296
+  orig: 181, 296
+  offset: 0, 0
+  index: -1
+01paiqi2
+  rotate: false
+  xy: 930, 822
+  size: 182, 296
+  orig: 182, 296
+  offset: 0, 0
+  index: -1
+01qianlun1
+  rotate: true
+  xy: 671, 11
+  size: 112, 124
+  orig: 112, 125
+  offset: 0, 0
+  index: -1
+03banzihou
+  rotate: true
+  xy: 624, 351
+  size: 257, 180
+  orig: 262, 184
+  offset: 5, 1
+  index: -1
+03banziqian
+  rotate: true
+  xy: 339, 328
+  size: 369, 100
+  orig: 369, 102
+  offset: 0, 2
+  index: -1
+03cheshen
+  rotate: true
+  xy: 2, 258
+  size: 439, 335
+  orig: 440, 335
+  offset: 1, 0
+  index: -1
+03chetou
+  rotate: true
+  xy: 441, 610
+  size: 250, 247
+  orig: 251, 247
+  offset: 1, 0
+  index: -1
+03houlun2
+  rotate: false
+  xy: 905, 578
+  size: 212, 242
+  orig: 214, 246
+  offset: 1, 0
+  index: -1
+03paiqi1
+  rotate: false
+  xy: 806, 377
+  size: 248, 199
+  orig: 248, 199
+  offset: 0, 0
+  index: -1
+03paiqi2
+  rotate: true
+  xy: 671, 125
+  size: 224, 178
+  orig: 224, 178
+  offset: 0, 0
+  index: -1
+03qianlun2
+  rotate: false
+  xy: 993, 251
+  size: 111, 124
+  orig: 112, 125
+  offset: 1, 0
+  index: -1
+houlun
+  rotate: false
+  xy: 2, 6
+  size: 251, 250
+  orig: 251, 250
+  offset: 0, 0
+  index: -1
+houlun2
+  rotate: false
+  xy: 677, 868
+  size: 251, 250
+  orig: 251, 250
+  offset: 0, 0
+  index: -1
+qianlun
+  rotate: false
+  xy: 851, 235
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+qianlun2
+  rotate: false
+  xy: 851, 93
+  size: 140, 140
+  orig: 142, 143
+  offset: 2, 0
+  index: -1

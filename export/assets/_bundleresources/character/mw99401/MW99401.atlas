@@ -1,0 +1,146 @@
+
+MW99401.png
+size: 1300,1300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_bg1
+  rotate: false
+  xy: 778, 925
+  size: 313, 371
+  orig: 315, 373
+  offset: 1, 1
+  index: -1
+01_bg2
+  rotate: false
+  xy: 2, 273
+  size: 403, 486
+  orig: 415, 486
+  offset: 12, 0
+  index: -1
+01_l_foot
+  rotate: false
+  xy: 681, 93
+  size: 58, 79
+  orig: 58, 79
+  offset: 0, 0
+  index: -1
+01_l_hand1
+  rotate: false
+  xy: 1073, 628
+  size: 210, 267
+  orig: 297, 267
+  offset: 87, 0
+  index: -1
+01_l_hand2
+  rotate: false
+  xy: 407, 44
+  size: 272, 261
+  orig: 272, 261
+  offset: 0, 0
+  index: -1
+01_mouth1
+  rotate: true
+  xy: 739, 565
+  size: 30, 25
+  orig: 31, 26
+  offset: 0, 1
+  index: -1
+01_mouth2
+  rotate: false
+  xy: 739, 597
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+01_r_foot
+  rotate: true
+  xy: 1180, 176
+  size: 62, 81
+  orig: 62, 81
+  offset: 0, 0
+  index: -1
+01_r_hand1
+  rotate: false
+  xy: 407, 307
+  size: 330, 324
+  orig: 372, 339
+  offset: 0, 15
+  index: -1
+01_r_hand2
+  rotate: true
+  xy: 429, 633
+  size: 194, 359
+  orig: 214, 402
+  offset: 0, 0
+  index: -1
+01_spine
+  rotate: false
+  xy: 739, 323
+  size: 362, 240
+  orig: 362, 240
+  offset: 0, 0
+  index: -1
+03_bg1
+  rotate: false
+  xy: 429, 829
+  size: 347, 467
+  orig: 350, 471
+  offset: 2, 2
+  index: -1
+03_bg2
+  rotate: false
+  xy: 2, 761
+  size: 425, 535
+  orig: 425, 538
+  offset: 0, 3
+  index: -1
+03_l_foot
+  rotate: false
+  xy: 1097, 175
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1
+03_r_foot
+  rotate: false
+  xy: 1097, 175
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1
+03_l_hand1
+  rotate: false
+  xy: 2, 10
+  size: 386, 261
+  orig: 390, 261
+  offset: 4, 0
+  index: -1
+03_l_hand2
+  rotate: false
+  xy: 1093, 897
+  size: 203, 399
+  orig: 246, 473
+  offset: 10, 24
+  index: -1
+03_r_hand1
+  rotate: false
+  xy: 1103, 240
+  size: 187, 386
+  orig: 199, 409
+  offset: 0, 23
+  index: -1
+03_r_hand2
+  rotate: true
+  xy: 739, 174
+  size: 147, 356
+  orig: 148, 356
+  offset: 1, 0
+  index: -1
+03_spine
+  rotate: false
+  xy: 790, 565
+  size: 281, 358
+  orig: 313, 358
+  offset: 13, 0
+  index: -1

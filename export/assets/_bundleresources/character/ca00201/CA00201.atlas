@@ -1,0 +1,321 @@
+
+CA00201.png
+size: 1168,1168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_body
+  rotate: true
+  xy: 851, 940
+  size: 226, 267
+  orig: 226, 274
+  offset: 0, 0
+  index: -1
+01_head
+  rotate: false
+  xy: 876, 276
+  size: 214, 217
+  orig: 214, 236
+  offset: 0, 0
+  index: -1
+01_l_earring
+  rotate: false
+  xy: 1092, 545
+  size: 73, 157
+  orig: 73, 157
+  offset: 0, 0
+  index: -1
+01_l_finger1
+  rotate: false
+  xy: 718, 34
+  size: 109, 111
+  orig: 109, 111
+  offset: 0, 0
+  index: -1
+01_l_finger2
+  rotate: true
+  xy: 601, 68
+  size: 77, 115
+  orig: 96, 115
+  offset: 0, 0
+  index: -1
+01_l_finger3
+  rotate: false
+  xy: 134, 10
+  size: 68, 131
+  orig: 68, 131
+  offset: 0, 0
+  index: -1
+01_l_finger4
+  rotate: false
+  xy: 1120, 921
+  size: 46, 91
+  orig: 46, 91
+  offset: 0, 0
+  index: -1
+01_l_forearm
+  rotate: false
+  xy: 2, 9
+  size: 130, 132
+  orig: 137, 158
+  offset: 0, 2
+  index: -1
+01_l_hair
+  rotate: false
+  xy: 588, 725
+  size: 261, 441
+  orig: 300, 441
+  offset: 10, 0
+  index: -1
+01_l_hand
+  rotate: false
+  xy: 489, 631
+  size: 145, 91
+  orig: 145, 91
+  offset: 0, 0
+  index: -1
+01_l_tanco1
+  rotate: false
+  xy: 1119, 818
+  size: 47, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+01_l_tanco2
+  rotate: false
+  xy: 821, 264
+  size: 52, 48
+  orig: 55, 57
+  offset: 0, 9
+  index: -1
+01_l_upperarm
+  rotate: false
+  xy: 1119, 704
+  size: 44, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+01_r_earring
+  rotate: false
+  xy: 1092, 390
+  size: 73, 153
+  orig: 73, 153
+  offset: 0, 0
+  index: -1
+01_r_eyeball
+  rotate: true
+  xy: 601, 7
+  size: 44, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+01_r_finger1
+  rotate: false
+  xy: 651, 391
+  size: 48, 102
+  orig: 48, 102
+  offset: 0, 0
+  index: -1
+01_r_finger2
+  rotate: false
+  xy: 204, 13
+  size: 56, 128
+  orig: 56, 128
+  offset: 0, 0
+  index: -1
+01_r_finger3
+  rotate: true
+  xy: 701, 390
+  size: 64, 114
+  orig: 68, 114
+  offset: 4, 0
+  index: -1
+01_r_finger4
+  rotate: false
+  xy: 436, 623
+  size: 51, 99
+  orig: 51, 99
+  offset: 0, 0
+  index: -1
+01_r_forearm
+  rotate: true
+  xy: 701, 456
+  size: 145, 120
+  orig: 145, 120
+  offset: 0, 0
+  index: -1
+01_r_hair
+  rotate: false
+  xy: 297, 146
+  size: 297, 475
+  orig: 343, 544
+  offset: 24, 38
+  index: -1
+01_r_hand
+  rotate: false
+  xy: 262, 19
+  size: 146, 122
+  orig: 146, 122
+  offset: 0, 0
+  index: -1
+01_r_tanco1
+  rotate: true
+  xy: 635, 7
+  size: 59, 55
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+01_r_tanco2
+  rotate: false
+  xy: 635, 540
+  size: 62, 61
+  orig: 62, 68
+  offset: 0, 7
+  index: -1
+01_r_upperarm
+  rotate: true
+  xy: 330, 623
+  size: 99, 104
+  orig: 99, 109
+  offset: 0, 5
+  index: -1
+01_tie1
+  rotate: true
+  xy: 596, 390
+  size: 82, 53
+  orig: 84, 53
+  offset: 2, 0
+  index: -1
+01_tie2
+  rotate: false
+  xy: 636, 603
+  size: 188, 120
+  orig: 198, 120
+  offset: 0, 0
+  index: -1
+02_body
+  rotate: true
+  xy: 851, 718
+  size: 220, 266
+  orig: 225, 287
+  offset: 0, 13
+  index: -1
+02_head
+  rotate: true
+  xy: 596, 147
+  size: 241, 223
+  orig: 242, 235
+  offset: 1, 0
+  index: -1
+02_l_earring
+  rotate: false
+  xy: 596, 474
+  size: 37, 155
+  orig: 40, 156
+  offset: 3, 1
+  index: -1
+02_r_earring
+  rotate: false
+  xy: 1120, 1014
+  size: 46, 152
+  orig: 49, 153
+  offset: 0, 1
+  index: -1
+02_r_eyeball
+  rotate: false
+  xy: 823, 458
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+02_r_hair
+  rotate: false
+  xy: 2, 623
+  size: 326, 543
+  orig: 338, 552
+  offset: 7, 8
+  index: -1
+02_r_tanco1
+  rotate: true
+  xy: 817, 395
+  size: 59, 57
+  orig: 63, 63
+  offset: 4, 6
+  index: -1
+02_r_tanco2
+  rotate: true
+  xy: 1092, 16
+  size: 59, 56
+  orig: 64, 82
+  offset: 0, 15
+  index: -1
+03_body
+  rotate: true
+  xy: 826, 495
+  size: 221, 264
+  orig: 225, 274
+  offset: 4, 0
+  index: -1
+03_head
+  rotate: false
+  xy: 875, 53
+  size: 215, 221
+  orig: 216, 222
+  offset: 0, 0
+  index: -1
+03_l_earring
+  rotate: false
+  xy: 1092, 77
+  size: 70, 156
+  orig: 73, 156
+  offset: 0, 0
+  index: -1
+03_l_hair
+  rotate: false
+  xy: 330, 724
+  size: 256, 442
+  orig: 300, 442
+  offset: 31, 0
+  index: -1
+03_l_tanco1
+  rotate: true
+  xy: 1119, 768
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+03_l_tanco2
+  rotate: true
+  xy: 1119, 867
+  size: 52, 47
+  orig: 55, 56
+  offset: 3, 9
+  index: -1
+03_r_earring
+  rotate: false
+  xy: 1092, 235
+  size: 73, 153
+  orig: 73, 153
+  offset: 0, 0
+  index: -1
+03_r_hair
+  rotate: false
+  xy: 2, 143
+  size: 293, 478
+  orig: 343, 544
+  offset: 24, 40
+  index: -1
+03_tie1
+  rotate: true
+  xy: 821, 314
+  size: 79, 53
+  orig: 84, 53
+  offset: 0, 0
+  index: -1
+03_tie2
+  rotate: false
+  xy: 410, 24
+  size: 189, 120
+  orig: 198, 120
+  offset: 9, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+V0059001_bg.png
+size: 908,908
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_black1
+  rotate: true
+  xy: 2, 21
+  size: 374, 385
+  orig: 376, 387
+  offset: 1, 1
+  index: -1
+bg_black2
+  rotate: true
+  xy: 391, 288
+  size: 275, 409
+  orig: 278, 411
+  offset: 2, 1
+  index: -1
+l_langhua1
+  rotate: true
+  xy: 2, 850
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+l_langhua2
+  rotate: true
+  xy: 326, 661
+  size: 243, 272
+  orig: 243, 272
+  offset: 0, 0
+  index: -1
+l_langhua3
+  rotate: true
+  xy: 600, 565
+  size: 339, 297
+  orig: 339, 298
+  offset: 0, 1
+  index: -1
+r_langhua1
+  rotate: false
+  xy: 64, 683
+  size: 260, 221
+  orig: 260, 221
+  offset: 0, 0
+  index: -1
+r_langhua2
+  rotate: true
+  xy: 2, 397
+  size: 262, 387
+  orig: 262, 387
+  offset: 0, 0
+  index: -1
+r_langhua3
+  rotate: true
+  xy: 389, 2
+  size: 284, 418
+  orig: 284, 418
+  offset: 0, 0
+  index: -1

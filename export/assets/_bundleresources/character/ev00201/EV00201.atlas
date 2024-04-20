@@ -1,0 +1,216 @@
+
+EV00201.png
+size: 932,932
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_body
+  rotate: true
+  xy: 2, 24
+  size: 150, 259
+  orig: 150, 298
+  offset: 0, 39
+  index: -1
+01_hand2
+  rotate: false
+  xy: 550, 12
+  size: 80, 98
+  orig: 91, 98
+  offset: 0, 0
+  index: -1
+01_hand3
+  rotate: false
+  xy: 715, 193
+  size: 77, 89
+  orig: 78, 89
+  offset: 1, 0
+  index: -1
+01_head
+  rotate: true
+  xy: 423, 266
+  size: 209, 270
+  orig: 209, 270
+  offset: 0, 0
+  index: -1
+01_l_arm
+  rotate: true
+  xy: 794, 220
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+01_l_finger
+  rotate: true
+  xy: 881, 141
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+01_l_foot
+  rotate: true
+  xy: 863, 718
+  size: 77, 58
+  orig: 77, 60
+  offset: 0, 2
+  index: -1
+01_l_hand
+  rotate: false
+  xy: 777, 53
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+01_legs
+  rotate: false
+  xy: 263, 3
+  size: 144, 259
+  orig: 144, 259
+  offset: 0, 0
+  index: -1
+01_lotus1
+  rotate: false
+  xy: 847, 270
+  size: 76, 178
+  orig: 76, 178
+  offset: 0, 0
+  index: -1
+01_lotus2
+  rotate: true
+  xy: 409, 98
+  size: 164, 137
+  orig: 166, 137
+  offset: 2, 0
+  index: -1
+01_lotus3
+  rotate: false
+  xy: 801, 797
+  size: 128, 132
+  orig: 130, 132
+  offset: 2, 0
+  index: -1
+01_plants
+  rotate: false
+  xy: 440, 663
+  size: 359, 266
+  orig: 359, 300
+  offset: 0, 20
+  index: -1
+01_r_arm
+  rotate: true
+  xy: 846, 200
+  size: 68, 77
+  orig: 68, 77
+  offset: 0, 0
+  index: -1
+01_r_foot
+  rotate: true
+  xy: 632, 21
+  size: 89, 69
+  orig: 89, 73
+  offset: 0, 0
+  index: -1
+01_r_hand
+  rotate: true
+  xy: 715, 117
+  size: 74, 81
+  orig: 78, 82
+  offset: 0, 0
+  index: -1
+01_weapon
+  rotate: true
+  xy: 2, 176
+  size: 461, 247
+  orig: 461, 247
+  offset: 0, 0
+  index: -1
+03_body
+  rotate: false
+  xy: 695, 284
+  size: 150, 164
+  orig: 150, 164
+  offset: 0, 0
+  index: -1
+03_head
+  rotate: false
+  xy: 716, 450
+  size: 208, 211
+  orig: 208, 211
+  offset: 0, 0
+  index: -1
+03_l_arm
+  rotate: true
+  xy: 837, 59
+  size: 58, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+03_l_hand
+  rotate: false
+  xy: 863, 663
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+03_leaf
+  rotate: true
+  xy: 548, 112
+  size: 152, 94
+  orig: 152, 94
+  offset: 0, 0
+  index: -1
+03_legs
+  rotate: true
+  xy: 440, 477
+  size: 184, 274
+  orig: 184, 274
+  offset: 0, 0
+  index: -1
+03_lotus1
+  rotate: false
+  xy: 801, 665
+  size: 60, 130
+  orig: 60, 130
+  offset: 0, 0
+  index: -1
+03_lotus2
+  rotate: true
+  xy: 409, 7
+  size: 89, 139
+  orig: 112, 159
+  offset: 23, 12
+  index: -1
+03_lotus3
+  rotate: true
+  xy: 644, 119
+  size: 145, 69
+  orig: 172, 139
+  offset: 1, 69
+  index: -1
+03_plants
+  rotate: true
+  xy: 251, 264
+  size: 373, 170
+  orig: 377, 206
+  offset: 0, 0
+  index: -1
+03_r_arm
+  rotate: false
+  xy: 798, 119
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+03_r_hand
+  rotate: false
+  xy: 703, 36
+  size: 72, 79
+  orig: 76, 84
+  offset: 4, 0
+  index: -1
+03_weapon
+  rotate: false
+  xy: 2, 639
+  size: 436, 290
+  orig: 436, 290
+  offset: 0, 0
+  index: -1

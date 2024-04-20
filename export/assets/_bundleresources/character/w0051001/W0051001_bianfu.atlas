@@ -1,0 +1,27 @@
+
+W0051001_bianfu.png
+size: 260,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianfu1
+  rotate: true
+  xy: 97, 204
+  size: 52, 65
+  orig: 54, 66
+  offset: 0, 1
+  index: -1
+bianfu2
+  rotate: false
+  xy: 164, 192
+  size: 92, 64
+  orig: 94, 66
+  offset: 0, 1
+  index: -1
+bianfu3
+  rotate: true
+  xy: 2, 208
+  size: 48, 93
+  orig: 62, 95
+  offset: 13, 0
+  index: -1

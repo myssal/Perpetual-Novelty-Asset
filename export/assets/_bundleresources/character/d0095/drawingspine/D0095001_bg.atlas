@@ -1,0 +1,48 @@
+
+D0095001_bg.png
+size: 1600,1600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diguang
+  rotate: false
+  xy: 2, 995
+  size: 1030, 603
+  orig: 1030, 603
+  offset: 0, 0
+  index: -1
+dizuo1
+  rotate: false
+  xy: 520, 728
+  size: 430, 265
+  orig: 430, 265
+  offset: 0, 0
+  index: -1
+dizuo2
+  rotate: true
+  xy: 1034, 664
+  size: 934, 555
+  orig: 934, 555
+  offset: 0, 0
+  index: -1
+niu3
+  rotate: true
+  xy: 520, 31
+  size: 631, 562
+  orig: 1058, 1008
+  offset: 4, 361
+  index: -1
+niu4
+  rotate: false
+  xy: 1084, 55
+  size: 514, 607
+  orig: 514, 607
+  offset: 0, 0
+  index: -1
+qizhi
+  rotate: false
+  xy: 2, 74
+  size: 516, 919
+  orig: 516, 919
+  offset: 0, 0
+  index: -1

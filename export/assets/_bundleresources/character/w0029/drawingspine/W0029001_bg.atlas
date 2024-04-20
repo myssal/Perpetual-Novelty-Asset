@@ -1,0 +1,97 @@
+
+W0029001_bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lsf1_222
+  rotate: false
+  xy: 453, 1995
+  size: 174, 52
+  orig: 174, 52
+  offset: 0, 0
+  index: -1
+lsf1_223
+  rotate: false
+  xy: 140, 1630
+  size: 303, 174
+  orig: 312, 186
+  offset: 9, 0
+  index: -1
+lsf1_224
+  rotate: false
+  xy: 1912, 1933
+  size: 126, 114
+  orig: 126, 114
+  offset: 0, 0
+  index: -1
+lsf1_225
+  rotate: false
+  xy: 1018, 1671
+  size: 229, 275
+  orig: 229, 275
+  offset: 0, 0
+  index: -1
+lsf1_226_1
+  rotate: false
+  xy: 844, 622
+  size: 819, 1425
+  orig: 1283, 1478
+  offset: 0, 0
+  index: -1
+lsf1_226_2
+  rotate: 270
+  xy: 903, 323
+  size: 817, 1143
+  orig: 847, 1163
+  offset: 0, 0
+  index: -1
+lsf1_226_3
+  rotate: false
+  xy: 281, 1800
+  size: 275, 247
+  orig: 275, 247
+  offset: 0, 0
+  index: -1
+lsf1_227
+  rotate: false
+  xy: 2, 1576
+  size: 278, 470
+  orig: 302, 470
+  offset: 24, 0
+  index: -1
+lsf1_228
+  rotate: false
+  xy: 959, 1707
+  size: 212, 341
+  orig: 212, 348
+  offset: 0, 7
+  index: -1
+lsf1_229
+  rotate: 180
+  xy: 2, 413
+  size: 1125, 532
+  orig: 1125, 551
+  offset: 0, 0
+  index: -1
+lsf1_230
+  rotate: false
+  xy: 2, 946
+  size: 973, 1101
+  orig: 973, 1101
+  offset: 0, 0
+  index: -1
+lsf1_231
+  rotate: false
+  xy: 1453, 1746
+  size: 560, 300
+  orig: 560, 300
+  offset: 0, 0
+  index: -1
+lsf1_232
+  rotate: false
+  xy: 1476, 1673
+  size: 338, 167
+  orig: 338, 167
+  offset: 0, 0
+  index: -1

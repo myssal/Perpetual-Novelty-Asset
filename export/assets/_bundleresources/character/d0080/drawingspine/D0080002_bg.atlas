@@ -1,0 +1,146 @@
+
+D0080002_bg.png
+size: 1372,1372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houyan
+  rotate: true
+  xy: 976, 292
+  size: 435, 358
+  orig: 435, 358
+  offset: 0, 0
+  index: -1
+jianzhu
+  rotate: false
+  xy: 2, 717
+  size: 751, 653
+  orig: 751, 653
+  offset: 0, 0
+  index: -1
+qigan
+  rotate: false
+  xy: 476, 177
+  size: 253, 275
+  orig: 253, 275
+  offset: 0, 0
+  index: -1
+qigan1
+  rotate: false
+  xy: 1326, 84
+  size: 20, 100
+  orig: 20, 100
+  offset: 0, 0
+  index: -1
+qigan2
+  rotate: false
+  xy: 1281, 47
+  size: 8, 137
+  orig: 8, 137
+  offset: 0, 0
+  index: -1
+qigan3
+  rotate: false
+  xy: 677, 515
+  size: 38, 200
+  orig: 38, 200
+  offset: 0, 0
+  index: -1
+qigan4
+  rotate: false
+  xy: 1291, 53
+  size: 33, 131
+  orig: 33, 131
+  offset: 0, 0
+  index: -1
+qigan5
+  rotate: true
+  xy: 1281, 24
+  size: 21, 76
+  orig: 21, 76
+  offset: 0, 0
+  index: -1
+qizi
+  rotate: true
+  xy: 755, 15
+  size: 712, 219
+  orig: 712, 219
+  offset: 0, 0
+  index: -1
+qizi1
+  rotate: false
+  xy: 240, 38
+  size: 221, 132
+  orig: 221, 132
+  offset: 0, 0
+  index: -1
+qizi2
+  rotate: false
+  xy: 2, 29
+  size: 236, 141
+  orig: 236, 141
+  offset: 0, 0
+  index: -1
+qizi3
+  rotate: false
+  xy: 476, 50
+  size: 251, 125
+  orig: 251, 125
+  offset: 0, 0
+  index: -1
+qizi4
+  rotate: true
+  xy: 1269, 911
+  size: 126, 101
+  orig: 126, 101
+  offset: 0, 0
+  index: -1
+qizi5
+  rotate: false
+  xy: 1281, 186
+  size: 80, 104
+  orig: 80, 104
+  offset: 0, 0
+  index: -1
+shitou1
+  rotate: false
+  xy: 2, 454
+  size: 673, 261
+  orig: 673, 261
+  offset: 0, 0
+  index: -1
+shu2
+  rotate: true
+  xy: 755, 729
+  size: 641, 368
+  orig: 641, 368
+  offset: 0, 0
+  index: -1
+xue1
+  rotate: false
+  xy: 976, 23
+  size: 303, 267
+  orig: 303, 267
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 1125, 761
+  size: 276, 142
+  orig: 276, 142
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 2, 172
+  size: 472, 280
+  orig: 500, 280
+  offset: 25, 0
+  index: -1
+yan3
+  rotate: true
+  xy: 1125, 1039
+  size: 331, 224
+  orig: 331, 224
+  offset: 0, 0
+  index: -1

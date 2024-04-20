@@ -1,0 +1,55 @@
+
+S0048001_dragon.png
+size: 548,548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 290
+  size: 510, 254
+  orig: 510, 257
+  offset: 0, 0
+  index: -1
+hair01
+  rotate: false
+  xy: 2, 70
+  size: 315, 218
+  orig: 315, 245
+  offset: 0, 27
+  index: -1
+head03
+  rotate: false
+  xy: 319, 117
+  size: 141, 171
+  orig: 143, 171
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 462, 199
+  size: 69, 89
+  orig: 72, 91
+  offset: 3, 1
+  index: -1
+longxu_L
+  rotate: false
+  xy: 319, 36
+  size: 195, 79
+  orig: 195, 79
+  offset: 0, 0
+  index: -1
+longxu_R_01
+  rotate: true
+  xy: 462, 152
+  size: 45, 78
+  orig: 45, 78
+  offset: 0, 0
+  index: -1
+longxu_R_02
+  rotate: true
+  xy: 514, 470
+  size: 74, 30
+  orig: 74, 30
+  offset: 0, 0
+  index: -1

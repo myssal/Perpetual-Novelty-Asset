@@ -1,0 +1,146 @@
+
+S0022002_bg.png
+size: 2024,2024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aixin_R2
+  rotate: false
+  xy: 2, 1807
+  size: 135, 121
+  orig: 135, 121
+  offset: 0, 0
+  index: -1
+aixin_R3
+  rotate: false
+  xy: 61, 1983
+  size: 33, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+beijing
+  rotate: false
+  xy: 2, 819
+  size: 1113, 1201
+  orig: 1113, 1201
+  offset: 0, 0
+  index: -1
+chuanglian-L
+  rotate: false
+  xy: 1074, 671
+  size: 329, 1349
+  orig: 329, 1349
+  offset: 0, 0
+  index: -1
+chuanglian-R
+  rotate: 270
+  xy: 2, 598
+  size: 277, 1185
+  orig: 277, 1185
+  offset: 0, 0
+  index: -1
+shubao
+  rotate: false
+  xy: 820, 1205
+  size: 286, 268
+  orig: 286, 268
+  offset: 0, 0
+  index: -1
+shuben_R5
+  rotate: false
+  xy: 827, 947
+  size: 297, 256
+  orig: 297, 256
+  offset: 0, 0
+  index: -1
+sidai_L3
+  rotate: false
+  xy: 841, 900
+  size: 214, 165
+  orig: 214, 174
+  offset: 0, 9
+  index: -1
+sidai_L4
+  rotate: false
+  xy: 766, 1891
+  size: 256, 130
+  orig: 270, 130
+  offset: 0, 0
+  index: -1
+sidai_L5
+  rotate: false
+  xy: 609, 355
+  size: 337, 241
+  orig: 337, 241
+  offset: 0, 0
+  index: -1
+sidai_R3a1
+  rotate: true
+  xy: 1276, 530
+  size: 917, 744
+  orig: 917, 757
+  offset: 0, 0
+  index: -1
+sidai_R6
+  rotate: false
+  xy: 884, 1811
+  size: 177, 78
+  orig: 177, 78
+  offset: 0, 0
+  index: -1
+sidai_R7
+  rotate: false
+  xy: 683, 1947
+  size: 156, 73
+  orig: 156, 73
+  offset: 0, 0
+  index: -1
+sidai_R8
+  rotate: false
+  xy: 2, 1929
+  size: 247, 91
+  orig: 247, 91
+  offset: 0, 0
+  index: -1
+sidai_R8a1
+  rotate: false
+  xy: 1189, 368
+  size: 775, 904
+  orig: 775, 904
+  offset: 0, 0
+  index: -1
+tangguo_R2
+  rotate: false
+  xy: 2, 980
+  size: 97, 64
+  orig: 98, 64
+  offset: 0, 0
+  index: -1
+tangguo_R3
+  rotate: false
+  xy: 2, 1725
+  size: 139, 81
+  orig: 139, 81
+  offset: 0, 0
+  index: -1
+xiaohua_R2
+  rotate: false
+  xy: 143, 1780
+  size: 59, 66
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+xiaohua_R3
+  rotate: false
+  xy: 138, 1862
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+zhuozi-hou
+  rotate: false
+  xy: 1389, 1453
+  size: 525, 568
+  orig: 525, 568
+  offset: 0, 0
+  index: -1

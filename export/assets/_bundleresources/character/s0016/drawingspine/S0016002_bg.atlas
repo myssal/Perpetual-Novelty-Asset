@@ -1,0 +1,104 @@
+
+S0016002_bg.png
+size: 1048,1048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing1
+  rotate: false
+  xy: 228, 32
+  size: 188, 181
+  orig: 188, 181
+  offset: 0, 0
+  index: -1
+beijing2
+  rotate: true
+  xy: 603, 167
+  size: 425, 267
+  orig: 425, 267
+  offset: 0, 0
+  index: -1
+beijing3
+  rotate: false
+  xy: 2, 215
+  size: 433, 437
+  orig: 433, 437
+  offset: 0, 0
+  index: -1
+beijing4
+  rotate: false
+  xy: 2, 654
+  size: 616, 392
+  orig: 616, 392
+  offset: 0, 0
+  index: -1
+beijing5
+  rotate: true
+  xy: 437, 235
+  size: 417, 164
+  orig: 417, 164
+  offset: 0, 0
+  index: -1
+beijing6
+  rotate: true
+  xy: 620, 594
+  size: 452, 294
+  orig: 452, 294
+  offset: 0, 0
+  index: -1
+hujiao
+  rotate: true
+  xy: 585, 76
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+jiaozi-panzi
+  rotate: false
+  xy: 2, 2
+  size: 224, 211
+  orig: 539, 291
+  offset: 315, 40
+  index: -1
+jiaozi1
+  rotate: false
+  xy: 631, 45
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+jiaozi2
+  rotate: false
+  xy: 228, 5
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+jiaozi3
+  rotate: false
+  xy: 585, 42
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+jiaozi4
+  rotate: true
+  xy: 418, 30
+  size: 183, 165
+  orig: 183, 165
+  offset: 0, 0
+  index: -1
+tang1
+  rotate: false
+  xy: 752, 96
+  size: 137, 69
+  orig: 137, 69
+  offset: 0, 0
+  index: -1
+tang2
+  rotate: false
+  xy: 752, 43
+  size: 102, 51
+  orig: 102, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+V0031002_bg.png
+size: 1884,1884
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 756
+  size: 1133, 1126
+  orig: 1209, 1150
+  offset: 76, 9
+  index: -1
+jiao_L
+  rotate: false
+  xy: 184, 102
+  size: 117, 112
+  orig: 126, 117
+  offset: 0, 5
+  index: -1
+jiaoyingzi
+  rotate: false
+  xy: 198, 293
+  size: 93, 242
+  orig: 93, 242
+  offset: 0, 0
+  index: -1
+jiazi
+  rotate: false
+  xy: 2, 3
+  size: 1057, 836
+  orig: 1057, 836
+  offset: 0, 0
+  index: -1
+niao_3-5
+  rotate: false
+  xy: 2, 1336
+  size: 34, 81
+  orig: 34, 81
+  offset: 0, 0
+  index: -1

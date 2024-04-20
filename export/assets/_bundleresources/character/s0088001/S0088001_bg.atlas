@@ -1,0 +1,62 @@
+
+S0088001_bg.png
+size: 1020,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_duck_body
+  rotate: true
+  xy: 859, 82
+  size: 162, 159
+  orig: 165, 180
+  offset: 3, 21
+  index: -1
+01_duck_head
+  rotate: false
+  xy: 656, 246
+  size: 208, 112
+  orig: 210, 112
+  offset: 0, 0
+  index: -1
+Lotus
+  rotate: false
+  xy: 656, 70
+  size: 201, 174
+  orig: 217, 174
+  offset: 16, 0
+  index: -1
+stone
+  rotate: false
+  xy: 511, 360
+  size: 412, 166
+  orig: 412, 166
+  offset: 0, 0
+  index: -1
+weed1
+  rotate: false
+  xy: 929, 397
+  size: 83, 621
+  orig: 83, 621
+  offset: 0, 0
+  index: -1
+weed2
+  rotate: true
+  xy: 2, 95
+  size: 238, 652
+  orig: 238, 652
+  offset: 0, 0
+  index: -1
+weed3
+  rotate: false
+  xy: 511, 528
+  size: 416, 490
+  orig: 416, 490
+  offset: 0, 0
+  index: -1
+weeds
+  rotate: false
+  xy: 2, 335
+  size: 507, 683
+  orig: 507, 683
+  offset: 0, 0
+  index: -1

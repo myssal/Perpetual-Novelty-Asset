@@ -1,0 +1,62 @@
+
+W0038003_snowgirl.png
+size: 236,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sheng_g
+  rotate: false
+  xy: 2, 69
+  size: 75, 164
+  orig: 76, 164
+  offset: 1, 0
+  index: -1
+snow_g_arm_R
+  rotate: true
+  xy: 72, 9
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+snow_g_body
+  rotate: true
+  xy: 79, 136
+  size: 97, 113
+  orig: 97, 113
+  offset: 0, 0
+  index: -1
+snow_g_fs_L
+  rotate: true
+  xy: 194, 170
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+snow_g_fs_R
+  rotate: false
+  xy: 194, 199
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+snow_g_hand_L
+  rotate: false
+  xy: 79, 77
+  size: 39, 57
+  orig: 39, 62
+  offset: 0, 5
+  index: -1
+snow_g_hand_R
+  rotate: false
+  xy: 2, 3
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+snow_g_head
+  rotate: true
+  xy: 133, 22
+  size: 112, 100
+  orig: 113, 102
+  offset: 1, 0
+  index: -1

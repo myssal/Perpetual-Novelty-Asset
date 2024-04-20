@@ -1,0 +1,55 @@
+
+S0088001_bg.png
+size: 1489,1489
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D1
+  rotate: false
+  xy: 921, 46
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+D2
+  rotate: true
+  xy: 871, 35
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+D4
+  rotate: false
+  xy: 796, 31
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+D5
+  rotate: true
+  xy: 1193, 1256
+  size: 231, 114
+  orig: 231, 114
+  offset: 0, 0
+  index: -1
+background1
+  rotate: false
+  xy: 2, 761
+  size: 1189, 726
+  orig: 1189, 726
+  offset: 0, 0
+  index: -1
+background2
+  rotate: true
+  xy: 796, 83
+  size: 676, 638
+  orig: 676, 638
+  offset: 0, 0
+  index: -1
+mountain
+  rotate: true
+  xy: 2, 2
+  size: 757, 792
+  orig: 757, 792
+  offset: 0, 0
+  index: -1

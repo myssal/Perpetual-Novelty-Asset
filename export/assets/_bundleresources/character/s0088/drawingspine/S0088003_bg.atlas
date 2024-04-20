@@ -1,0 +1,13 @@
+
+S0088003_bg.png
+size: 2044,2044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: true
+  xy: 2, 88
+  size: 1951, 2037
+  orig: 1951, 2037
+  offset: 0, 0
+  index: -1

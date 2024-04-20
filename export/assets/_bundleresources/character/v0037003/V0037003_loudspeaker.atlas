@@ -1,0 +1,27 @@
+
+V0037003_loudspeaker.png
+size: 408,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+loudspeaker1
+  rotate: false
+  xy: 85, 41
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+loudspeaker2
+  rotate: true
+  xy: 2, 2
+  size: 71, 81
+  orig: 71, 81
+  offset: 0, 0
+  index: -1
+loudspeaker_box
+  rotate: false
+  xy: 2, 75
+  size: 181, 330
+  orig: 181, 330
+  offset: 0, 0
+  index: -1

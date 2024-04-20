@@ -1,0 +1,62 @@
+
+S0077001_fly.png
+size: 820,820
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fliy1
+  rotate: false
+  xy: 2, 377
+  size: 326, 441
+  orig: 329, 441
+  offset: 3, 0
+  index: -1
+fliy2
+  rotate: false
+  xy: 330, 654
+  size: 105, 164
+  orig: 109, 166
+  offset: 0, 0
+  index: -1
+fliy3
+  rotate: false
+  xy: 350, 9
+  size: 104, 45
+  orig: 107, 49
+  offset: 0, 4
+  index: -1
+fliy4
+  rotate: false
+  xy: 125, 6
+  size: 121, 48
+  orig: 121, 54
+  offset: 0, 6
+  index: -1
+fliy5
+  rotate: true
+  xy: 2, 56
+  size: 319, 438
+  orig: 329, 441
+  offset: 9, 3
+  index: -1
+fliy6
+  rotate: false
+  xy: 330, 497
+  size: 102, 155
+  orig: 109, 166
+  offset: 2, 5
+  index: -1
+fliy7
+  rotate: false
+  xy: 248, 5
+  size: 100, 49
+  orig: 107, 49
+  offset: 0, 0
+  index: -1
+fliy8
+  rotate: false
+  xy: 2, 2
+  size: 121, 52
+  orig: 121, 54
+  offset: 0, 2
+  index: -1

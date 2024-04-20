@@ -1,0 +1,104 @@
+
+V0034001_bz.png
+size: 276,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lupai1
+  rotate: true
+  xy: 2, 42
+  size: 57, 270
+  orig: 57, 270
+  offset: 0, 0
+  index: -1
+lupai11
+  rotate: true
+  xy: 42, 214
+  size: 39, 65
+  orig: 39, 65
+  offset: 0, 0
+  index: -1
+lupai12
+  rotate: true
+  xy: 174, 253
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+lupai13
+  rotate: true
+  xy: 2, 159
+  size: 53, 102
+  orig: 58, 105
+  offset: 5, 1
+  index: -1
+lupai14
+  rotate: true
+  xy: 206, 244
+  size: 28, 63
+  orig: 30, 63
+  offset: 0, 0
+  index: -1
+lupai15
+  rotate: false
+  xy: 2, 221
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+lupai16
+  rotate: true
+  xy: 2, 264
+  size: 8, 16
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+lupai2
+  rotate: true
+  xy: 2, 101
+  size: 56, 270
+  orig: 56, 270
+  offset: 0, 0
+  index: -1
+lupai21
+  rotate: false
+  xy: 20, 259
+  size: 16, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+lupai22
+  rotate: true
+  xy: 109, 210
+  size: 41, 51
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+lupai23
+  rotate: true
+  xy: 162, 190
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+lupai24
+  rotate: true
+  xy: 61, 255
+  size: 17, 72
+  orig: 17, 72
+  offset: 0, 0
+  index: -1
+lupai25
+  rotate: false
+  xy: 38, 259
+  size: 21, 13
+  orig: 21, 17
+  offset: 0, 4
+  index: -1
+lupai26
+  rotate: false
+  xy: 135, 253
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1

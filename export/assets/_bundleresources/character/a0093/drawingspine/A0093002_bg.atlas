@@ -1,0 +1,146 @@
+
+A0093002_bg.png
+size: 1292,1292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BGchanzi_1
+  rotate: true
+  xy: 396, 30
+  size: 33, 133
+  orig: 33, 133
+  offset: 0, 0
+  index: -1
+BGchanzi_2
+  rotate: true
+  xy: 242, 130
+  size: 36, 157
+  orig: 36, 157
+  offset: 0, 0
+  index: -1
+BGchanzi_3
+  rotate: true
+  xy: 242, 101
+  size: 27, 135
+  orig: 27, 135
+  offset: 0, 0
+  index: -1
+BGchanzi_4
+  rotate: true
+  xy: 396, 65
+  size: 34, 150
+  orig: 34, 150
+  offset: 0, 0
+  index: -1
+BGchanzi_5
+  rotate: true
+  xy: 191, 2
+  size: 22, 109
+  orig: 22, 109
+  offset: 0, 0
+  index: -1
+anban
+  rotate: false
+  xy: 635, 265
+  size: 104, 125
+  orig: 104, 125
+  offset: 0, 0
+  index: -1
+benti
+  rotate: true
+  xy: 558, 99
+  size: 128, 121
+  orig: 128, 121
+  offset: 0, 0
+  index: -1
+dangban
+  rotate: false
+  xy: 406, 115
+  size: 150, 102
+  orig: 150, 102
+  offset: 0, 0
+  index: -1
+dingzi_1
+  rotate: false
+  xy: 379, 101
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+dingzi_2
+  rotate: false
+  xy: 330, 7
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+dingzi_3
+  rotate: true
+  xy: 302, 6
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+guizi
+  rotate: true
+  xy: 2, 98
+  size: 292, 238
+  orig: 292, 238
+  offset: 0, 0
+  index: -1
+guohou
+  rotate: true
+  xy: 378, 219
+  size: 171, 133
+  orig: 171, 133
+  offset: 0, 0
+  index: -1
+hua1_1
+  rotate: false
+  xy: 304, 30
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+hua1_2
+  rotate: false
+  xy: 513, 229
+  size: 120, 161
+  orig: 120, 161
+  offset: 0, 0
+  index: -1
+hua2_1
+  rotate: false
+  xy: 191, 26
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+hua2_2
+  rotate: false
+  xy: 242, 168
+  size: 134, 222
+  orig: 134, 222
+  offset: 0, 0
+  index: -1
+huaping
+  rotate: true
+  xy: 2, 5
+  size: 91, 187
+  orig: 91, 187
+  offset: 0, 0
+  index: -1
+huapinghou
+  rotate: true
+  xy: 531, 13
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+qiang_1
+  rotate: false
+  xy: 2, 392
+  size: 875, 898
+  orig: 875, 898
+  offset: 0, 0
+  index: -1

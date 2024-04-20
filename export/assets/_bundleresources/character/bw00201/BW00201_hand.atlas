@@ -1,0 +1,118 @@
+
+BW00201_hand.png
+size: 480,480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai1
+  rotate: false
+  xy: 108, 104
+  size: 136, 163
+  orig: 139, 165
+  offset: 2, 1
+  index: -1
+bai2
+  rotate: false
+  xy: 357, 79
+  size: 77, 74
+  orig: 77, 78
+  offset: 0, 3
+  index: -1
+bai3
+  rotate: true
+  xy: 280, 321
+  size: 157, 160
+  orig: 168, 171
+  offset: 4, 2
+  index: -1
+bai4
+  rotate: false
+  xy: 149, 271
+  size: 97, 48
+  orig: 98, 55
+  offset: 1, 0
+  index: -1
+bai5
+  rotate: false
+  xy: 246, 104
+  size: 99, 57
+  orig: 101, 57
+  offset: 2, 0
+  index: -1
+bai6
+  rotate: true
+  xy: 357, 155
+  size: 89, 96
+  orig: 92, 96
+  offset: 3, 0
+  index: -1
+bai7
+  rotate: false
+  xy: 280, 4
+  size: 75, 98
+  orig: 80, 107
+  offset: 0, 0
+  index: -1
+bai8
+  rotate: false
+  xy: 2, 2
+  size: 77, 83
+  orig: 77, 86
+  offset: 0, 3
+  index: -1
+hei1
+  rotate: false
+  xy: 2, 87
+  size: 104, 180
+  orig: 106, 182
+  offset: 1, 1
+  index: -1
+hei2
+  rotate: true
+  xy: 209, 402
+  size: 76, 58
+  orig: 77, 62
+  offset: 0, 3
+  index: -1
+hei3
+  rotate: false
+  xy: 2, 269
+  size: 145, 209
+  orig: 147, 212
+  offset: 1, 2
+  index: -1
+hei4
+  rotate: false
+  xy: 246, 163
+  size: 105, 106
+  orig: 105, 109
+  offset: 0, 3
+  index: -1
+hei5
+  rotate: false
+  xy: 149, 340
+  size: 58, 138
+  orig: 58, 144
+  offset: 0, 6
+  index: -1
+hei6
+  rotate: true
+  xy: 357, 246
+  size: 73, 102
+  orig: 74, 102
+  offset: 0, 0
+  index: -1
+hei7
+  rotate: false
+  xy: 197, 2
+  size: 81, 100
+  orig: 81, 100
+  offset: 0, 0
+  index: -1
+hei8
+  rotate: false
+  xy: 81, 3
+  size: 114, 82
+  orig: 114, 82
+  offset: 0, 0
+  index: -1

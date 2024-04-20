@@ -1,0 +1,104 @@
+
+V0055001_rabbit_plus.png
+size: 784,784
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_eye_smile
+  rotate: false
+  xy: 2, 765
+  size: 29, 14
+  orig: 30, 39
+  offset: 1, 0
+  index: -1
+RB_body
+  rotate: true
+  xy: 2, 24
+  size: 561, 383
+  orig: 564, 412
+  offset: 0, 29
+  index: -1
+RB_ear_l
+  rotate: true
+  xy: 134, 601
+  size: 104, 143
+  orig: 104, 151
+  offset: 0, 0
+  index: -1
+RB_ear_r
+  rotate: false
+  xy: 279, 587
+  size: 112, 110
+  orig: 112, 110
+  offset: 0, 0
+  index: -1
+RB_foot_l
+  rotate: true
+  xy: 153, 718
+  size: 61, 83
+  orig: 69, 87
+  offset: 8, 4
+  index: -1
+RB_foot_r
+  rotate: false
+  xy: 509, 695
+  size: 92, 84
+  orig: 92, 84
+  offset: 0, 0
+  index: -1
+RB_foot_r2
+  rotate: true
+  xy: 322, 699
+  size: 80, 91
+  orig: 80, 92
+  offset: 0, 1
+  index: -1
+erduo1
+  rotate: true
+  xy: 2, 631
+  size: 98, 130
+  orig: 98, 130
+  offset: 0, 0
+  index: -1
+erduo2
+  rotate: true
+  xy: 603, 682
+  size: 97, 126
+  orig: 97, 126
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: true
+  xy: 393, 284
+  size: 396, 386
+  orig: 396, 386
+  offset: 0, 0
+  index: -1
+shou 1
+  rotate: true
+  xy: 415, 698
+  size: 81, 92
+  orig: 81, 92
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 238, 707
+  size: 72, 82
+  orig: 72, 82
+  offset: 0, 0
+  index: -1
+yanjing1
+  rotate: false
+  xy: 33, 737
+  size: 65, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1
+yanjing2
+  rotate: false
+  xy: 100, 731
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+V0075001_bird2.png
+size: 180,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2bird
+  rotate: true
+  xy: 130, 50
+  size: 53, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+2bird_l_wing1
+  rotate: false
+  xy: 2, 50
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+2bird_l_wing2
+  rotate: false
+  xy: 70, 52
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+2bird_mouth1
+  rotate: false
+  xy: 145, 164
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+2bird_mouth2
+  rotate: false
+  xy: 145, 156
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+2bird_r_wing1
+  rotate: true
+  xy: 77, 105
+  size: 71, 66
+  orig: 71, 66
+  offset: 0, 0
+  index: -1
+2bird_r_wing2
+  rotate: false
+  xy: 2, 112
+  size: 73, 64
+  orig: 73, 64
+  offset: 0, 0
+  index: -1
+2bird_tail
+  rotate: false
+  xy: 56, 52
+  size: 12, 58
+  orig: 12, 58
+  offset: 0, 0
+  index: -1

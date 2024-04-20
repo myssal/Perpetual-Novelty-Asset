@@ -1,0 +1,41 @@
+
+S0066001_bg.png
+size: 1792,1792
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guizi_L
+  rotate: false
+  xy: 2, 554
+  size: 827, 1234
+  orig: 827, 1240
+  offset: 0, 0
+  index: -1
+guizi_R
+  rotate: false
+  xy: 831, 896
+  size: 785, 891
+  orig: 785, 891
+  offset: 0, 0
+  index: -1
+muban_L
+  rotate: 270
+  xy: 771, 359
+  size: 535, 852
+  orig: 535, 852
+  offset: 0, 0
+  index: -1
+muban_R
+  rotate: 270
+  xy: 2, 34
+  size: 427, 872
+  orig: 427, 872
+  offset: 0, 0
+  index: -1
+penzai
+  rotate: false
+  xy: 857, 2
+  size: 486, 355
+  orig: 486, 355
+  offset: 0, 0
+  index: -1

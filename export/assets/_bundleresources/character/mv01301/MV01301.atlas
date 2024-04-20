@@ -1,0 +1,419 @@
+
+MV01301.png
+size: 1244,1244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_cloth1
+  rotate: false
+  xy: 723, 253
+  size: 228, 102
+  orig: 228, 102
+  offset: 0, 0
+  index: -1
+01_cloth2
+  rotate: false
+  xy: 2, 877
+  size: 392, 365
+  orig: 392, 365
+  offset: 0, 0
+  index: -1
+01_dec
+  rotate: true
+  xy: 765, 425
+  size: 131, 175
+  orig: 131, 175
+  offset: 0, 0
+  index: -1
+01_hair
+  rotate: false
+  xy: 1020, 463
+  size: 177, 253
+  orig: 177, 253
+  offset: 0, 0
+  index: -1
+01_head
+  rotate: true
+  xy: 557, 356
+  size: 166, 84
+  orig: 166, 84
+  offset: 0, 0
+  index: -1
+01_head2
+  rotate: false
+  xy: 958, 47
+  size: 84, 89
+  orig: 84, 89
+  offset: 0, 0
+  index: -1
+01_head3
+  rotate: true
+  xy: 723, 199
+  size: 52, 96
+  orig: 52, 96
+  offset: 0, 0
+  index: -1
+01_l_forearm
+  rotate: true
+  xy: 1044, 48
+  size: 81, 72
+  orig: 81, 72
+  offset: 0, 0
+  index: -1
+01_l_hand
+  rotate: true
+  xy: 1181, 319
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+01_l_hand_1
+  rotate: false
+  xy: 1172, 171
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+01_l_hand_cloth1
+  rotate: true
+  xy: 725, 360
+  size: 45, 84
+  orig: 45, 84
+  offset: 0, 0
+  index: -1
+01_l_hand_cloth2
+  rotate: true
+  xy: 1178, 217
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+01_l_leg
+  rotate: false
+  xy: 198, 373
+  size: 124, 247
+  orig: 124, 247
+  offset: 0, 0
+  index: -1
+01_l_shou1
+  rotate: false
+  xy: 659, 138
+  size: 130, 55
+  orig: 130, 55
+  offset: 0, 0
+  index: -1
+01_l_shou2
+  rotate: true
+  xy: 821, 208
+  size: 43, 69
+  orig: 43, 69
+  offset: 0, 0
+  index: -1
+01_l_shou3
+  rotate: false
+  xy: 811, 357
+  size: 95, 66
+  orig: 95, 66
+  offset: 0, 0
+  index: -1
+01_l_upperarm
+  rotate: true
+  xy: 953, 255
+  size: 113, 122
+  orig: 113, 122
+  offset: 0, 0
+  index: -1
+01_l_wing
+  rotate: true
+  xy: 2, 491
+  size: 190, 194
+  orig: 190, 194
+  offset: 0, 0
+  index: -1
+01_l_wing_cloth
+  rotate: false
+  xy: 942, 455
+  size: 76, 101
+  orig: 76, 101
+  offset: 0, 0
+  index: -1
+01_pelvis_cloth
+  rotate: true
+  xy: 356, 508
+  size: 181, 199
+  orig: 181, 199
+  offset: 0, 0
+  index: -1
+01_r_forearm
+  rotate: true
+  xy: 881, 150
+  size: 56, 78
+  orig: 56, 78
+  offset: 0, 0
+  index: -1
+01_r_hand
+  rotate: true
+  xy: 1178, 260
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+01_r_hand_cloth1
+  rotate: true
+  xy: 892, 211
+  size: 40, 73
+  orig: 40, 73
+  offset: 0, 0
+  index: -1
+01_r_hand_cloth2
+  rotate: true
+  xy: 1070, 375
+  size: 86, 109
+  orig: 86, 109
+  offset: 0, 0
+  index: -1
+01_r_leg
+  rotate: true
+  xy: 407, 17
+  size: 105, 249
+  orig: 105, 249
+  offset: 0, 0
+  index: -1
+01_r_shou1
+  rotate: false
+  xy: 531, 133
+  size: 126, 60
+  orig: 126, 60
+  offset: 0, 0
+  index: -1
+01_r_shou2
+  rotate: false
+  xy: 942, 370
+  size: 126, 83
+  orig: 126, 83
+  offset: 0, 0
+  index: -1
+01_r_shou3
+  rotate: true
+  xy: 356, 768
+  size: 107, 28
+  orig: 107, 28
+  offset: 0, 0
+  index: -1
+01_r_upperarm
+  rotate: false
+  xy: 1047, 131
+  size: 123, 110
+  orig: 123, 110
+  offset: 0, 0
+  index: -1
+01_r_wing
+  rotate: true
+  xy: 1022, 718
+  size: 244, 213
+  orig: 244, 215
+  offset: 0, 2
+  index: -1
+01_r_wing_cloth
+  rotate: true
+  xy: 844, 15
+  size: 125, 112
+  orig: 125, 112
+  offset: 0, 0
+  index: -1
+01_shou4
+  rotate: true
+  xy: 643, 357
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+01_snake1
+  rotate: true
+  xy: 958, 2
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+01_snake2
+  rotate: false
+  xy: 167, 99
+  size: 143, 68
+  orig: 143, 68
+  offset: 0, 0
+  index: -1
+01_snake3
+  rotate: false
+  xy: 967, 138
+  size: 78, 115
+  orig: 78, 115
+  offset: 0, 0
+  index: -1
+01_snake4
+  rotate: false
+  xy: 356, 718
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+01_spine
+  rotate: true
+  xy: 770, 751
+  size: 211, 250
+  orig: 215, 250
+  offset: 0, 0
+  index: -1
+01_spine_cloth
+  rotate: false
+  xy: 175, 3
+  size: 230, 94
+  orig: 230, 94
+  offset: 0, 0
+  index: -1
+01_toukui
+  rotate: false
+  xy: 174, 169
+  size: 139, 202
+  orig: 139, 202
+  offset: 0, 0
+  index: -1
+02_head
+  rotate: false
+  xy: 2, 3
+  size: 171, 81
+  orig: 171, 81
+  offset: 0, 0
+  index: -1
+02_head2
+  rotate: true
+  xy: 1077, 243
+  size: 130, 99
+  orig: 159, 99
+  offset: 23, 0
+  index: -1
+02_pelvis_cloth
+  rotate: true
+  xy: 522, 195
+  size: 159, 199
+  orig: 199, 199
+  offset: 25, 0
+  index: -1
+02_spine
+  rotate: true
+  xy: 767, 558
+  size: 191, 251
+  orig: 210, 251
+  offset: 7, 0
+  index: -1
+02_spine_cloth
+  rotate: true
+  xy: 557, 524
+  size: 165, 87
+  orig: 165, 87
+  offset: 0, 0
+  index: -1
+03_cloth2
+  rotate: true
+  xy: 396, 899
+  size: 343, 372
+  orig: 343, 374
+  offset: 0, 2
+  index: -1
+03_hair
+  rotate: false
+  xy: 211, 622
+  size: 143, 253
+  orig: 143, 253
+  offset: 0, 0
+  index: -1
+03_head
+  rotate: false
+  xy: 658, 2
+  size: 184, 129
+  orig: 186, 129
+  offset: 0, 0
+  index: -1
+03_l_leg
+  rotate: false
+  xy: 646, 407
+  size: 117, 243
+  orig: 117, 243
+  offset: 0, 0
+  index: -1
+03_l_wing
+  rotate: false
+  xy: 2, 683
+  size: 207, 192
+  orig: 207, 192
+  offset: 0, 0
+  index: -1
+03_pelvis_cloth
+  rotate: false
+  xy: 2, 86
+  size: 163, 199
+  orig: 163, 199
+  offset: 0, 0
+  index: -1
+03_pelvis_cloth2
+  rotate: false
+  xy: 315, 182
+  size: 186, 148
+  orig: 186, 148
+  offset: 0, 0
+  index: -1
+03_r_leg
+  rotate: false
+  xy: 648, 652
+  size: 117, 245
+  orig: 117, 245
+  offset: 0, 0
+  index: -1
+03_r_wing
+  rotate: true
+  xy: 2, 287
+  size: 202, 170
+  orig: 202, 170
+  offset: 0, 0
+  index: -1
+03_shou4
+  rotate: true
+  xy: 791, 142
+  size: 55, 88
+  orig: 55, 88
+  offset: 0, 0
+  index: -1
+03_spine
+  rotate: true
+  xy: 396, 691
+  size: 206, 250
+  orig: 216, 250
+  offset: 0, 0
+  index: -1
+03_spine_cloth
+  rotate: false
+  xy: 312, 124
+  size: 217, 43
+  orig: 217, 43
+  offset: 0, 0
+  index: -1
+03_toukui
+  rotate: true
+  xy: 324, 332
+  size: 174, 196
+  orig: 174, 196
+  offset: 0, 0
+  index: -1
+snake
+  rotate: true
+  xy: 1199, 386
+  size: 330, 29
+  orig: 330, 29
+  offset: 0, 0
+  index: -1
+wp_01
+  rotate: false
+  xy: 770, 964
+  size: 444, 278
+  orig: 444, 278
+  offset: 0, 0
+  index: -1

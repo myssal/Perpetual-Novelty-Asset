@@ -1,0 +1,118 @@
+
+V0037003_drum.png
+size: 532,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1ca0
+  rotate: true
+  xy: 167, 222
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+1ca1
+  rotate: false
+  xy: 381, 377
+  size: 113, 43
+  orig: 113, 53
+  offset: 0, 0
+  index: -1
+1ca2
+  rotate: false
+  xy: 2, 212
+  size: 134, 318
+  orig: 135, 318
+  offset: 1, 0
+  index: -1
+2ca0
+  rotate: true
+  xy: 199, 224
+  size: 11, 40
+  orig: 11, 40
+  offset: 0, 0
+  index: -1
+2ca1
+  rotate: false
+  xy: 101, 17
+  size: 103, 56
+  orig: 103, 73
+  offset: 0, 17
+  index: -1
+2ca2
+  rotate: false
+  xy: 381, 307
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: -1
+2ca3
+  rotate: false
+  xy: 268, 109
+  size: 108, 180
+  orig: 108, 180
+  offset: 0, 0
+  index: -1
+3ca0
+  rotate: true
+  xy: 138, 218
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+3ca1
+  rotate: false
+  xy: 138, 237
+  size: 119, 52
+  orig: 119, 52
+  offset: 0, 0
+  index: -1
+3ca2
+  rotate: true
+  xy: 2, 75
+  size: 135, 264
+  orig: 135, 264
+  offset: 0, 0
+  index: -1
+dagu_m
+  rotate: true
+  xy: 138, 291
+  size: 239, 241
+  orig: 239, 241
+  offset: 0, 0
+  index: -1
+gu_m1
+  rotate: false
+  xy: 268, 2
+  size: 109, 105
+  orig: 110, 105
+  offset: 0, 0
+  index: -1
+gu_m2
+  rotate: false
+  xy: 379, 23
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1
+gu_m3
+  rotate: false
+  xy: 381, 422
+  size: 102, 108
+  orig: 102, 108
+  offset: 0, 0
+  index: -1
+jiazi_m
+  rotate: true
+  xy: 2, 12
+  size: 61, 97
+  orig: 61, 97
+  offset: 0, 0
+  index: -1
+jungu
+  rotate: false
+  xy: 378, 134
+  size: 104, 155
+  orig: 104, 155
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+V0141002_bg.png
+size: 1980,1980
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_qi
+  rotate: false
+  xy: 613, 202
+  size: 610, 731
+  orig: 899, 731
+  offset: 289, 0
+  index: -1
+R_qi
+  rotate: false
+  xy: 2, 179
+  size: 609, 754
+  orig: 609, 754
+  offset: 0, 0
+  index: -1
+beiban
+  rotate: true
+  xy: 1225, 2
+  size: 519, 697
+  orig: 519, 697
+  offset: 0, 0
+  index: -1
+beijing
+  rotate: false
+  xy: 1243, 523
+  size: 663, 1452
+  orig: 819, 1452
+  offset: 104, 0
+  index: -1
+shitai
+  rotate: false
+  xy: 2, 935
+  size: 1239, 1040
+  orig: 1239, 1127
+  offset: 0, 30
+  index: -1
+shitou_1
+  rotate: false
+  xy: 613, 12
+  size: 345, 188
+  orig: 345, 188
+  offset: 0, 0
+  index: -1
+yinzhang
+  rotate: false
+  xy: 1908, 1931
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1

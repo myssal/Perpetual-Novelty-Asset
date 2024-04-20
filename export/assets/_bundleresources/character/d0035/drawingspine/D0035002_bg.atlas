@@ -1,0 +1,195 @@
+
+D0035002_bg.png
+size: 1900,1900
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Board
+  rotate: true
+  xy: 618, 1446
+  size: 452, 683
+  orig: 452, 683
+  offset: 0, 0
+  index: -1
+Books
+  rotate: true
+  xy: 1430, 424
+  size: 296, 250
+  orig: 296, 250
+  offset: 0, 0
+  index: -1
+Bottle
+  rotate: false
+  xy: 1682, 502
+  size: 178, 327
+  orig: 222, 327
+  offset: 0, 0
+  index: -1
+Cloud
+  rotate: false
+  xy: 589, 863
+  size: 541, 388
+  orig: 541, 388
+  offset: 0, 0
+  index: -1
+Desk
+  rotate: false
+  xy: 1234, 1041
+  size: 422, 392
+  orig: 422, 392
+  offset: 0, 0
+  index: -1
+Dwarf
+  rotate: true
+  xy: 475, 300
+  size: 493, 167
+  orig: 493, 167
+  offset: 0, 0
+  index: -1
+Files
+  rotate: false
+  xy: 1093, 251
+  size: 302, 189
+  orig: 302, 189
+  offset: 0, 0
+  index: -1
+Flower_1
+  rotate: true
+  xy: 1692, 271
+  size: 229, 176
+  orig: 229, 176
+  offset: 0, 0
+  index: -1
+Flower_A_1
+  rotate: false
+  xy: 1658, 1102
+  size: 222, 331
+  orig: 222, 331
+  offset: 0, 0
+  index: -1
+Flower_A_2
+  rotate: true
+  xy: 1397, 292
+  size: 130, 293
+  orig: 130, 293
+  offset: 0, 0
+  index: -1
+Flower_A_3
+  rotate: false
+  xy: 1234, 722
+  size: 354, 317
+  orig: 354, 317
+  offset: 0, 0
+  index: -1
+Flower_A_5
+  rotate: true
+  xy: 2, 73
+  size: 211, 450
+  orig: 211, 450
+  offset: 0, 0
+  index: -1
+Glass
+  rotate: false
+  xy: 2, 286
+  size: 471, 507
+  orig: 471, 507
+  offset: 0, 0
+  index: -1
+IronStick
+  rotate: false
+  xy: 2, 795
+  size: 585, 556
+  orig: 585, 556
+  offset: 0, 0
+  index: -1
+Leaves_01
+  rotate: false
+  xy: 1015, 67
+  size: 198, 182
+  orig: 198, 182
+  offset: 0, 0
+  index: -1
+Leaves_04
+  rotate: true
+  xy: 1397, 154
+  size: 136, 239
+  orig: 136, 239
+  offset: 0, 0
+  index: -1
+Leaves_05
+  rotate: false
+  xy: 1215, 107
+  size: 135, 142
+  orig: 135, 142
+  offset: 0, 0
+  index: -1
+Leaves_12
+  rotate: false
+  xy: 1638, 138
+  size: 211, 131
+  orig: 211, 131
+  offset: 0, 0
+  index: -1
+Leaves_A
+  rotate: true
+  xy: 454, 76
+  size: 208, 172
+  orig: 208, 172
+  offset: 0, 0
+  index: -1
+Leaves_B_1
+  rotate: false
+  xy: 1682, 831
+  size: 216, 269
+  orig: 216, 269
+  offset: 0, 0
+  index: -1
+Leaves_E
+  rotate: false
+  xy: 1093, 442
+  size: 335, 278
+  orig: 335, 278
+  offset: 0, 0
+  index: -1
+Paper
+  rotate: false
+  xy: 1303, 1435
+  size: 495, 463
+  orig: 495, 463
+  offset: 0, 0
+  index: -1
+Red
+  rotate: false
+  xy: 2, 1353
+  size: 614, 545
+  orig: 614, 545
+  offset: 0, 0
+  index: -1
+Stick
+  rotate: false
+  xy: 644, 406
+  size: 447, 455
+  orig: 447, 455
+  offset: 0, 0
+  index: -1
+Stick_01
+  rotate: false
+  xy: 1132, 960
+  size: 100, 291
+  orig: 100, 291
+  offset: 0, 0
+  index: -1
+Water_Back
+  rotate: true
+  xy: 644, 158
+  size: 246, 369
+  orig: 246, 369
+  offset: 0, 0
+  index: -1
+floor
+  rotate: false
+  xy: 618, 1253
+  size: 614, 191
+  orig: 614, 191
+  offset: 0, 0
+  index: -1

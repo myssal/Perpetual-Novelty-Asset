@@ -1,0 +1,55 @@
+
+V0006002_bg.png
+size: 1324,1324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianxiangan1
+  rotate: false
+  xy: 873, 861
+  size: 446, 458
+  orig: 446, 458
+  offset: 0, 0
+  index: -1
+dianxiangan2
+  rotate: true
+  xy: 863, 288
+  size: 571, 442
+  orig: 571, 445
+  offset: 0, 0
+  index: -1
+dianxiangan3
+  rotate: true
+  xy: 863, 216
+  size: 70, 385
+  orig: 70, 385
+  offset: 0, 0
+  index: -1
+dianxiangan4
+  rotate: false
+  xy: 2, 110
+  size: 432, 359
+  orig: 435, 359
+  offset: 3, 0
+  index: -1
+dimian
+  rotate: false
+  xy: 2, 989
+  size: 869, 330
+  orig: 869, 330
+  offset: 0, 0
+  index: -1
+fangzi
+  rotate: true
+  xy: 2, 471
+  size: 516, 509
+  orig: 516, 509
+  offset: 0, 0
+  index: -1
+lupai
+  rotate: false
+  xy: 513, 171
+  size: 348, 816
+  orig: 348, 816
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+D0080001_bg.png
+size: 432,432
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niao_01
+  rotate: 180
+  xy: 253, 182
+  size: 104, 67
+  orig: 104, 67
+  offset: 0, 0
+  index: -1
+niao_02
+  rotate: false
+  xy: 2, 323
+  size: 361, 107
+  orig: 361, 107
+  offset: 0, 0
+  index: -1
+niao_02_1
+  rotate: false
+  xy: 2, 93
+  size: 322, 239
+  orig: 322, 275
+  offset: 0, 36
+  index: -1
+niao_03
+  rotate: false
+  xy: 2, 164
+  size: 31, 83
+  orig: 31, 83
+  offset: 0, 0
+  index: -1
+niao_04
+  rotate: false
+  xy: 28, 180
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: -1
+niao_05
+  rotate: false
+  xy: 2, 248
+  size: 148, 81
+  orig: 148, 81
+  offset: 0, 0
+  index: -1
+niao_06
+  rotate: true
+  xy: 336, 249
+  size: 80, 18
+  orig: 80, 18
+  offset: 0, 0
+  index: -1
+niao_07
+  rotate: true
+  xy: 359, 168
+  size: 123, 30
+  orig: 123, 30
+  offset: 0, 0
+  index: -1
+niao_08
+  rotate: true
+  xy: 352, 46
+  size: 120, 38
+  orig: 120, 38
+  offset: 0, 0
+  index: -1
+niao_09
+  rotate: true
+  xy: 41, 3
+  size: 69, 312
+  orig: 69, 312
+  offset: 0, 0
+  index: -1
+niao_09_1
+  rotate: 180
+  xy: 16, 51
+  size: 340, 140
+  orig: 340, 140
+  offset: 0, 0
+  index: -1

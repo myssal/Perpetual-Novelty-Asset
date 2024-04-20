@@ -1,0 +1,111 @@
+
+wreck.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bubble
+  rotate: true
+  xy: 732, 92
+  size: 91, 94
+  orig: 103, 98
+  offset: 6, 0
+  index: -1
+wood01
+  rotate: true
+  xy: 930, 125
+  size: 58, 159
+  orig: 63, 167
+  offset: 3, 2
+  index: -1
+wood02
+  rotate: false
+  xy: 615, 92
+  size: 115, 91
+  orig: 118, 94
+  offset: 1, 2
+  index: -1
+wood03
+  rotate: true
+  xy: 443, 89
+  size: 94, 170
+  orig: 98, 174
+  offset: 2, 2
+  index: -1
+wood04
+  rotate: true
+  xy: 2, 37
+  size: 146, 166
+  orig: 150, 171
+  offset: 2, 3
+  index: -1
+wood05
+  rotate: true
+  xy: 170, 70
+  size: 113, 135
+  orig: 122, 140
+  offset: 1, 3
+  index: -1
+wood06
+  rotate: true
+  xy: 1110, 1196
+  size: 49, 70
+  orig: 53, 94
+  offset: 2, 22
+  index: -1
+wood07
+  rotate: true
+  xy: 1182, 1207
+  size: 38, 63
+  orig: 49, 68
+  offset: 9, 3
+  index: -1
+wood08
+  rotate: false
+  xy: 1054, 1081
+  size: 54, 164
+  orig: 57, 168
+  offset: 2, 2
+  index: -1
+wood09
+  rotate: false
+  xy: 828, 101
+  size: 100, 82
+  orig: 102, 84
+  offset: 1, 1
+  index: -1
+wood10
+  rotate: false
+  xy: 307, 75
+  size: 134, 108
+  orig: 138, 112
+  offset: 2, 2
+  index: -1
+wood11
+  rotate: true
+  xy: 1110, 1123
+  size: 27, 76
+  orig: 30, 107
+  offset: 2, 29
+  index: -1
+wood12
+  rotate: false
+  xy: 1054, 1021
+  size: 60, 58
+  orig: 63, 61
+  offset: 1, 2
+  index: -1
+wood13
+  rotate: true
+  xy: 1110, 1152
+  size: 42, 76
+  orig: 45, 81
+  offset: 2, 3
+  index: -1
+wreck
+  rotate: false
+  xy: 2, 185
+  size: 1050, 1060
+  orig: 1101, 1064
+  offset: 2, 3
+  index: -1

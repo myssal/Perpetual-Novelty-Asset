@@ -1,0 +1,104 @@
+
+S0088001_bg2.png
+size: 492,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02_duck_body
+  rotate: false
+  xy: 261, 151
+  size: 215, 100
+  orig: 215, 117
+  offset: 0, 0
+  index: -1
+02_duck_foot_l
+  rotate: true
+  xy: 376, 259
+  size: 30, 64
+  orig: 30, 64
+  offset: 0, 0
+  index: -1
+02_duck_foot_r
+  rotate: false
+  xy: 381, 40
+  size: 27, 60
+  orig: 27, 61
+  offset: 0, 1
+  index: -1
+02_duck_head
+  rotate: false
+  xy: 348, 102
+  size: 78, 47
+  orig: 78, 49
+  offset: 0, 0
+  index: -1
+02_duck_neck
+  rotate: true
+  xy: 143, 18
+  size: 71, 120
+  orig: 71, 120
+  offset: 0, 0
+  index: -1
+03_duck_body
+  rotate: false
+  xy: 195, 253
+  size: 179, 122
+  orig: 179, 122
+  offset: 0, 0
+  index: -1
+03_duck_head
+  rotate: false
+  xy: 261, 91
+  size: 85, 58
+  orig: 86, 58
+  offset: 0, 0
+  index: -1
+03_duck_wing_l
+  rotate: false
+  xy: 2, 19
+  size: 139, 70
+  orig: 139, 70
+  offset: 0, 0
+  index: -1
+03_duck_wing_r
+  rotate: true
+  xy: 428, 56
+  size: 93, 61
+  orig: 93, 61
+  offset: 0, 0
+  index: -1
+Lotus flower
+  rotate: false
+  xy: 2, 228
+  size: 191, 261
+  orig: 253, 265
+  offset: 62, 0
+  index: -1
+Lotus leaf1
+  rotate: false
+  xy: 2, 91
+  size: 257, 135
+  orig: 257, 135
+  offset: 0, 0
+  index: -1
+Lotus leaf2
+  rotate: false
+  xy: 195, 377
+  size: 288, 112
+  orig: 288, 112
+  offset: 0, 0
+  index: -1
+Lotus leaf3
+  rotate: false
+  xy: 265, 24
+  size: 114, 65
+  orig: 114, 68
+  offset: 0, 0
+  index: -1
+Lotus seed head
+  rotate: false
+  xy: 376, 291
+  size: 101, 84
+  orig: 113, 87
+  offset: 12, 0
+  index: -1
