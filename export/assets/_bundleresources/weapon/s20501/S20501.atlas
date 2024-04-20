@@ -1,0 +1,20 @@
+
+S20501.png
+size: 476,476
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S20501_1
+  rotate: false
+  xy: 2, 227
+  size: 397, 247
+  orig: 397, 247
+  offset: 0, 0
+  index: -1
+S20501_1_b
+  rotate: false
+  xy: 2, 2
+  size: 391, 223
+  orig: 391, 223
+  offset: 0, 0
+  index: -1

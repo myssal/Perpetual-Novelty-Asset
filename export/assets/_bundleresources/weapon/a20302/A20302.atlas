@@ -1,0 +1,20 @@
+
+A20302.png
+size: 344,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A20302
+  rotate: false
+  xy: 2, 166
+  size: 228, 175
+  orig: 228, 176
+  offset: 0, 1
+  index: -1
+A20302_b
+  rotate: false
+  xy: 2, 2
+  size: 234, 162
+  orig: 235, 163
+  offset: 1, 1
+  index: -1

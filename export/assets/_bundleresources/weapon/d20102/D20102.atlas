@@ -1,0 +1,27 @@
+
+D20102.png
+size: 600,600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D20102_1
+  rotate: true
+  xy: 239, 380
+  size: 217, 241
+  orig: 218, 243
+  offset: 1, 1
+  index: -1
+D20102_1_b
+  rotate: false
+  xy: 2, 373
+  size: 235, 224
+  orig: 235, 225
+  offset: 0, 1
+  index: -1
+D20102_2
+  rotate: false
+  xy: 482, 390
+  size: 115, 207
+  orig: 117, 208
+  offset: 1, 0
+  index: -1

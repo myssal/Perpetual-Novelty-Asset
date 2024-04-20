@@ -1,0 +1,27 @@
+
+D20801.png
+size: 728,728
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D20801_1
+  rotate: true
+  xy: 204, 483
+  size: 240, 256
+  orig: 240, 257
+  offset: 0, 1
+  index: -1
+D20801_1_b
+  rotate: true
+  xy: 462, 477
+  size: 246, 261
+  orig: 246, 261
+  offset: 0, 0
+  index: -1
+D20801_2
+  rotate: true
+  xy: 2, 560
+  size: 163, 200
+  orig: 167, 202
+  offset: 2, 1
+  index: -1

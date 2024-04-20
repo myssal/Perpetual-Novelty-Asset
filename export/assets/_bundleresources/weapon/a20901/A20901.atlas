@@ -1,0 +1,20 @@
+
+A20901.png
+size: 360,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A20901
+  rotate: false
+  xy: 2, 2
+  size: 273, 166
+  orig: 273, 166
+  offset: 0, 0
+  index: -1
+A20901_b
+  rotate: false
+  xy: 2, 170
+  size: 264, 186
+  orig: 264, 186
+  offset: 0, 0
+  index: -1

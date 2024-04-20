@@ -1,0 +1,20 @@
+
+S20195.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S20195_1
+  rotate: false
+  xy: 2, 580
+  size: 396, 182
+  orig: 402, 187
+  offset: 2, 2
+  index: -1
+S20195_1_b
+  rotate: false
+  xy: 400, 577
+  size: 362, 185
+  orig: 369, 189
+  offset: 3, 3
+  index: -1

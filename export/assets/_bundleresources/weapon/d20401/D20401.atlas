@@ -1,0 +1,27 @@
+
+D20401.png
+size: 716,716
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D20401_1
+  rotate: false
+  xy: 459, 472
+  size: 253, 240
+  orig: 253, 240
+  offset: 0, 0
+  index: -1
+D20401_1_b
+  rotate: false
+  xy: 203, 473
+  size: 254, 239
+  orig: 254, 239
+  offset: 0, 0
+  index: -1
+D20401_2
+  rotate: true
+  xy: 2, 554
+  size: 158, 199
+  orig: 158, 199
+  offset: 0, 0
+  index: -1

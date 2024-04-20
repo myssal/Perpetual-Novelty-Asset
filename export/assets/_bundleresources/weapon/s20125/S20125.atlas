@@ -1,0 +1,20 @@
+
+S20125.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S20125_1
+  rotate: false
+  xy: 2, 587
+  size: 372, 176
+  orig: 372, 176
+  offset: 0, 0
+  index: -1
+S20125_1_b
+  rotate: false
+  xy: 376, 580
+  size: 387, 183
+  orig: 392, 190
+  offset: 1, 4
+  index: -1

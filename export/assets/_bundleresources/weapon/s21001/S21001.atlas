@@ -1,0 +1,20 @@
+
+S21001.png
+size: 420,420
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S21001_1
+  rotate: false
+  xy: 2, 14
+  size: 415, 179
+  orig: 418, 179
+  offset: 3, 0
+  index: -1
+S21001_1_b
+  rotate: false
+  xy: 2, 195
+  size: 382, 222
+  orig: 382, 222
+  offset: 0, 0
+  index: -1

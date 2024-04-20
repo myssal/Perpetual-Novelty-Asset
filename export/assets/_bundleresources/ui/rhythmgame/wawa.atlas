@@ -1,0 +1,90 @@
+
+wawa.png
+size: 732,732
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erji1
+  rotate: true
+  xy: 531, 313
+  size: 138, 157
+  orig: 138, 157
+  offset: 0, 0
+  index: -1
+erji2
+  rotate: false
+  xy: 265, 302
+  size: 264, 149
+  orig: 264, 149
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 265, 453
+  size: 282, 275
+  orig: 282, 275
+  offset: 0, 0
+  index: -1
+piaodai1
+  rotate: true
+  xy: 2, 11
+  size: 243, 352
+  orig: 357, 352
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: false
+  xy: 2, 256
+  size: 261, 472
+  orig: 261, 484
+  offset: 0, 0
+  index: -1
+piaodai3
+  rotate: false
+  xy: 594, 151
+  size: 114, 160
+  orig: 114, 160
+  offset: 0, 0
+  index: -1
+piaodai4
+  rotate: false
+  xy: 549, 573
+  size: 162, 155
+  orig: 162, 155
+  offset: 0, 0
+  index: -1
+shou_l
+  rotate: false
+  xy: 265, 258
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+shou_r
+  rotate: true
+  xy: 680, 525
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+shoubi_l
+  rotate: true
+  xy: 549, 477
+  size: 94, 129
+  orig: 94, 129
+  offset: 0, 0
+  index: -1
+shoubi_r
+  rotate: true
+  xy: 594, 47
+  size: 102, 124
+  orig: 102, 124
+  offset: 0, 0
+  index: -1
+spine
+  rotate: false
+  xy: 356, 14
+  size: 236, 286
+  orig: 236, 286
+  offset: 0, 0
+  index: -1

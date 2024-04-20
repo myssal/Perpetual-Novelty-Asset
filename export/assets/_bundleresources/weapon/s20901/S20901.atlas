@@ -1,0 +1,20 @@
+
+S20901.png
+size: 456,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S20901_1
+  rotate: false
+  xy: 2, 72
+  size: 452, 161
+  orig: 454, 161
+  offset: 0, 0
+  index: -1
+S20901_1_b
+  rotate: false
+  xy: 2, 235
+  size: 437, 219
+  orig: 438, 220
+  offset: 0, 1
+  index: -1

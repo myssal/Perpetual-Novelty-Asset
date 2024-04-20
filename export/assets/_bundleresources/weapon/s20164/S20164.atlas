@@ -1,0 +1,20 @@
+
+S20164.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S20164_1
+  rotate: false
+  xy: 2, 213
+  size: 389, 178
+  orig: 393, 182
+  offset: 2, 2
+  index: -1
+S20164_1_b
+  rotate: false
+  xy: 2, 41
+  size: 380, 170
+  orig: 387, 176
+  offset: 3, 3
+  index: -1

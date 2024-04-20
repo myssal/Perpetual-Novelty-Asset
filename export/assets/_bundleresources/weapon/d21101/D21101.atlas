@@ -1,0 +1,27 @@
+
+D21101.png
+size: 784,784
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D21101_1
+  rotate: true
+  xy: 506, 538
+  size: 242, 274
+  orig: 243, 275
+  offset: 1, 0
+  index: -1
+D21101_1_b
+  rotate: true
+  xy: 240, 548
+  size: 232, 264
+  orig: 232, 264
+  offset: 0, 0
+  index: -1
+D21101_2
+  rotate: true
+  xy: 2, 611
+  size: 169, 236
+  orig: 169, 236
+  offset: 0, 0
+  index: -1

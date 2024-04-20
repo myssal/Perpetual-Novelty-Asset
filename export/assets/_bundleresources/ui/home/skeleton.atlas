@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 560,560
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_home_bj_ld01
+  rotate: false
+  xy: 39, 250
+  size: 41, 118
+  orig: 41, 118
+  offset: 0, 0
+  index: -1
+ui_home_bj_ld02
+  rotate: false
+  xy: 63, 228
+  size: 28, 94
+  orig: 28, 94
+  offset: 0, 0
+  index: -1
+ui_home_bj_ld03
+  rotate: false
+  xy: 2, 207
+  size: 50, 174
+  orig: 50, 174
+  offset: 0, 0
+  index: -1
+ui_home_shu_you
+  rotate: false
+  xy: 100, 246
+  size: 403, 164
+  orig: 403, 164
+  offset: 0, 0
+  index: -1
+ui_home_shu_zuo01
+  rotate: false
+  xy: 2, 383
+  size: 491, 175
+  orig: 491, 189
+  offset: 0, 14
+  index: -1
+ui_home_shu_zuo02
+  rotate: 180
+  xy: 36, 4
+  size: 462, 273
+  orig: 462, 273
+  offset: 0, 0
+  index: -1
+ui_home_shu_zuo03
+  rotate: false
+  xy: 2, 195
+  size: 154, 38
+  orig: 171, 46
+  offset: 10, 8
+  index: -1

@@ -1,0 +1,20 @@
+
+S20196.png
+size: 784,784
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S20196_1
+  rotate: false
+  xy: 379, 579
+  size: 401, 201
+  orig: 407, 201
+  offset: 0, 0
+  index: -1
+S20196_1_b
+  rotate: false
+  xy: 2, 589
+  size: 375, 191
+  orig: 386, 191
+  offset: 1, 0
+  index: -1

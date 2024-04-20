@@ -1,0 +1,20 @@
+
+V20303.png
+size: 360,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V20303_1
+  rotate: false
+  xy: 2, 319
+  size: 356, 39
+  orig: 356, 41
+  offset: 0, 2
+  index: -1
+V20303_2
+  rotate: false
+  xy: 2, 319
+  size: 356, 39
+  orig: 356, 41
+  offset: 0, 2
+  index: -1

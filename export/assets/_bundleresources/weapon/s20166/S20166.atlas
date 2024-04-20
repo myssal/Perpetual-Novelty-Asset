@@ -1,0 +1,20 @@
+
+S20166.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S20166_1
+  rotate: false
+  xy: 2, 599
+  size: 393, 143
+  orig: 395, 147
+  offset: 0, 2
+  index: -1
+S20166_1_b
+  rotate: false
+  xy: 397, 586
+  size: 345, 156
+  orig: 345, 160
+  offset: 0, 0
+  index: -1

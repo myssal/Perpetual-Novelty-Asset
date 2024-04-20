@@ -1,0 +1,20 @@
+
+S20125_3.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S20125_2
+  rotate: false
+  xy: 2, 103
+  size: 93, 99
+  orig: 94, 99
+  offset: 1, 0
+  index: -1
+S20125_2_b
+  rotate: false
+  xy: 2, 2
+  size: 93, 99
+  orig: 94, 99
+  offset: 0, 0
+  index: -1

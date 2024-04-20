@@ -1,0 +1,27 @@
+
+D20171.png
+size: 668,668
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D20171_1
+  rotate: false
+  xy: 2, 138
+  size: 214, 262
+  orig: 215, 263
+  offset: 1, 0
+  index: -1
+D20171_1_b
+  rotate: false
+  xy: 2, 402
+  size: 215, 263
+  orig: 215, 263
+  offset: 0, 0
+  index: -1
+D20171_2
+  rotate: true
+  xy: 2, 2
+  size: 134, 214
+  orig: 135, 214
+  offset: 1, 0
+  index: -1

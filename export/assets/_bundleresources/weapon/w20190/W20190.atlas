@@ -1,0 +1,13 @@
+
+W20190.png
+size: 156,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+W20190_2
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

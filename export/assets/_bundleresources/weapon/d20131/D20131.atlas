@@ -1,0 +1,27 @@
+
+D20131.png
+size: 692,692
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D20131_1
+  rotate: true
+  xy: 440, 473
+  size: 215, 248
+  orig: 215, 248
+  offset: 0, 0
+  index: -1
+D20131_1_b
+  rotate: true
+  xy: 192, 480
+  size: 208, 246
+  orig: 208, 246
+  offset: 0, 0
+  index: -1
+D20131_2
+  rotate: true
+  xy: 2, 530
+  size: 158, 188
+  orig: 158, 188
+  offset: 0, 0
+  index: -1

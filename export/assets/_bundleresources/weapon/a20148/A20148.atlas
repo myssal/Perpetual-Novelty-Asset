@@ -1,0 +1,20 @@
+
+A20148.png
+size: 528,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A20148
+  rotate: false
+  xy: 2, 337
+  size: 251, 187
+  orig: 251, 187
+  offset: 0, 0
+  index: -1
+A20148_b
+  rotate: false
+  xy: 255, 330
+  size: 269, 194
+  orig: 269, 194
+  offset: 0, 0
+  index: -1

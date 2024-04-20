@@ -1,0 +1,20 @@
+
+V21001.png
+size: 348,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V21001_1
+  rotate: false
+  xy: 2, 282
+  size: 343, 63
+  orig: 343, 63
+  offset: 0, 0
+  index: -1
+V21001_2
+  rotate: false
+  xy: 2, 282
+  size: 343, 63
+  orig: 343, 63
+  offset: 0, 0
+  index: -1

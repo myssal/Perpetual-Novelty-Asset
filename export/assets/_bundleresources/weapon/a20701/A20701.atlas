@@ -1,0 +1,20 @@
+
+A20701.png
+size: 524,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A20701
+  rotate: false
+  xy: 2, 352
+  size: 266, 169
+  orig: 266, 169
+  offset: 0, 0
+  index: -1
+A20701_b
+  rotate: false
+  xy: 270, 348
+  size: 251, 173
+  orig: 251, 174
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+W20304.png
+size: 200,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+W20304_2
+  rotate: false
+  xy: 2, 2
+  size: 110, 193
+  orig: 111, 194
+  offset: 0, 1
+  index: -1

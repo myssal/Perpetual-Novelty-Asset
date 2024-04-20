@@ -1,0 +1,20 @@
+
+A20501.png
+size: 412,412
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A20501
+  rotate: false
+  xy: 2, 2
+  size: 247, 178
+  orig: 247, 178
+  offset: 0, 0
+  index: -1
+A20501_b
+  rotate: false
+  xy: 2, 182
+  size: 252, 225
+  orig: 252, 225
+  offset: 0, 0
+  index: -1

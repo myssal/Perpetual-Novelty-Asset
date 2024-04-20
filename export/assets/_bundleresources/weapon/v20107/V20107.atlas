@@ -1,0 +1,20 @@
+
+V20107.png
+size: 340,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V20107_1
+  rotate: false
+  xy: 2, 274
+  size: 334, 62
+  orig: 338, 63
+  offset: 1, 1
+  index: -1
+V20107_2
+  rotate: false
+  xy: 2, 210
+  size: 334, 62
+  orig: 338, 63
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,27 @@
+
+D20901.png
+size: 760,760
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D20901_1
+  rotate: true
+  xy: 225, 495
+  size: 263, 265
+  orig: 263, 265
+  offset: 0, 0
+  index: -1
+D20901_1_b
+  rotate: false
+  xy: 492, 492
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+D20901_2
+  rotate: true
+  xy: 2, 573
+  size: 185, 221
+  orig: 185, 222
+  offset: 0, 0
+  index: -1

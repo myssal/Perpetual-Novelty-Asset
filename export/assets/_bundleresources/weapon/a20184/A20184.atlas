@@ -1,0 +1,20 @@
+
+A20184.png
+size: 356,356
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A20184
+  rotate: false
+  xy: 2, 190
+  size: 246, 163
+  orig: 246, 163
+  offset: 0, 0
+  index: -1
+A20184_b
+  rotate: false
+  xy: 2, 2
+  size: 222, 186
+  orig: 222, 188
+  offset: 0, 2
+  index: -1

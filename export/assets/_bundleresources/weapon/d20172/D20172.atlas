@@ -1,0 +1,27 @@
+
+D20172.png
+size: 724,724
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D20172_1
+  rotate: true
+  xy: 207, 479
+  size: 240, 253
+  orig: 240, 253
+  offset: 0, 0
+  index: -1
+D20172_1_b
+  rotate: true
+  xy: 462, 477
+  size: 242, 257
+  orig: 242, 258
+  offset: 0, 1
+  index: -1
+D20172_2
+  rotate: true
+  xy: 2, 564
+  size: 155, 203
+  orig: 155, 203
+  offset: 0, 0
+  index: -1

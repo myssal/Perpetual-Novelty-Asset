@@ -1,0 +1,20 @@
+
+S20801.png
+size: 480,480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S20801_1
+  rotate: false
+  xy: 2, 2
+  size: 450, 189
+  orig: 451, 189
+  offset: 1, 0
+  index: -1
+S20801_1_b
+  rotate: false
+  xy: 2, 193
+  size: 435, 283
+  orig: 435, 283
+  offset: 0, 0
+  index: -1

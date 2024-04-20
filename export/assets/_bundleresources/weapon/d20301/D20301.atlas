@@ -1,0 +1,27 @@
+
+D20301.png
+size: 716,716
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D20301_1
+  rotate: true
+  xy: 176, 510
+  size: 204, 268
+  orig: 204, 269
+  offset: 0, 0
+  index: -1
+D20301_1_b
+  rotate: true
+  xy: 446, 509
+  size: 205, 268
+  orig: 206, 270
+  offset: 0, 1
+  index: -1
+D20301_2
+  rotate: true
+  xy: 2, 548
+  size: 166, 172
+  orig: 167, 174
+  offset: 1, 0
+  index: -1

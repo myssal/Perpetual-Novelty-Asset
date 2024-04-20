@@ -1,0 +1,132 @@
+
+mib.png
+size: 1056,1056
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt
+  rotate: false
+  xy: 2, 21
+  size: 152, 328
+  orig: 152, 331
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 156, 49
+  size: 237, 300
+  orig: 246, 300
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 941, 521
+  size: 112, 135
+  orig: 112, 135
+  offset: 0, 0
+  index: -1
+dress_r
+  rotate: false
+  xy: 460, 392
+  size: 164, 662
+  orig: 164, 662
+  offset: 0, 0
+  index: -1
+glove_r
+  rotate: false
+  xy: 876, 363
+  size: 53, 152
+  orig: 53, 152
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 876, 610
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 666, 30
+  size: 148, 146
+  orig: 149, 146
+  offset: 1, 0
+  index: -1
+hood
+  rotate: false
+  xy: 666, 670
+  size: 283, 190
+  orig: 283, 190
+  offset: 0, 0
+  index: -1
+hood_inner
+  rotate: true
+  xy: 666, 180
+  size: 211, 188
+  orig: 213, 188
+  offset: 2, 0
+  index: -1
+jacket_inner_l
+  rotate: false
+  xy: 951, 658
+  size: 103, 202
+  orig: 103, 202
+  offset: 0, 0
+  index: -1
+jacket_l
+  rotate: false
+  xy: 395, 49
+  size: 91, 300
+  orig: 91, 300
+  offset: 0, 0
+  index: -1
+jacket_r
+  rotate: true
+  xy: 666, 862
+  size: 192, 375
+  orig: 192, 375
+  offset: 0, 0
+  index: -1
+mask
+  rotate: true
+  xy: 814, 45
+  size: 133, 95
+  orig: 133, 95
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: false
+  xy: 876, 517
+  size: 60, 91
+  orig: 60, 91
+  offset: 0, 0
+  index: -1
+pants
+  rotate: false
+  xy: 2, 351
+  size: 456, 703
+  orig: 456, 703
+  offset: 0, 0
+  index: -1
+sleeve_f_l
+  rotate: false
+  xy: 938, 239
+  size: 115, 280
+  orig: 115, 280
+  offset: 0, 0
+  index: -1
+sleeve_l
+  rotate: false
+  xy: 626, 393
+  size: 248, 275
+  orig: 248, 275
+  offset: 0, 0
+  index: -1
+sleeve_r
+  rotate: false
+  xy: 488, 10
+  size: 176, 380
+  orig: 176, 380
+  offset: 0, 0
+  index: -1

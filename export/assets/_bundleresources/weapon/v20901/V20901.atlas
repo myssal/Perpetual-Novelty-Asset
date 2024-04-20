@@ -1,0 +1,20 @@
+
+V20901.png
+size: 340,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+V20901_1
+  rotate: false
+  xy: 2, 296
+  size: 336, 42
+  orig: 336, 42
+  offset: 0, 0
+  index: -1
+V20901_2
+  rotate: false
+  xy: 2, 296
+  size: 336, 42
+  orig: 336, 42
+  offset: 0, 0
+  index: -1

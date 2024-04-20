@@ -1,0 +1,20 @@
+
+A20113.png
+size: 484,484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A20113
+  rotate: false
+  xy: 2, 285
+  size: 230, 197
+  orig: 230, 197
+  offset: 0, 0
+  index: -1
+A20113_b
+  rotate: false
+  xy: 234, 275
+  size: 248, 207
+  orig: 248, 207
+  offset: 0, 0
+  index: -1

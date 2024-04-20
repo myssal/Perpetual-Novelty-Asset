@@ -1,0 +1,13 @@
+
+W20801.png
+size: 172,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+W20801_2
+  rotate: false
+  xy: 2, 3
+  size: 167, 166
+  orig: 168, 167
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,20 @@
+
+A20149.png
+size: 516,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A20149
+  rotate: false
+  xy: 2, 321
+  size: 269, 193
+  orig: 269, 193
+  offset: 0, 0
+  index: -1
+A20149_b
+  rotate: false
+  xy: 273, 312
+  size: 241, 202
+  orig: 241, 202
+  offset: 0, 0
+  index: -1
